@@ -1,0 +1,407 @@
+# 🔥 HỆ THỐNG LUYỆN ĐAN - GAME TIÊN NGHỊCH
+
+## 🌟 TỔNG QUAN
+
+Luyện Đan là nghề phụ quan trọng, cho phép người chơi tự tạo ra Đan Dược từ nguyên liệu.
+
+### **3 Cảnh Giới Linh Hồn Luyện Đan:**
+
+```
+LINH HỎA (灵火) → LINH DƯỢC SƯ (灵药师) → ĐAN THÁNH (丹圣)
+  Tầng 1-9        Tầng 1-9              Tầng 1-9
+```
+
+---
+
+## 🔥 CẢNH GIỚI 1: LINH HỎA (灵火境) - Tầng 1-9
+
+**Đặc điểm:**
+- Bắt đầu học luyện đan
+- Kiểm soát linh hỏa cơ bản
+- Có thể luyện đan phẩm thấp
+
+**Tu luyện cách nâng tầng:**
+- Mỗi lần luyện đan thành công: +1-10 Luyện Đan Kinh Nghiệm
+- Mỗi lần thất bại: +0.5 Kinh Nghiệm
+- Càng đan khó càng nhiều exp
+
+**Yêu cầu nâng tầng:**
+- Tầng 1→2: 1,000 Luyện Đan Exp + 50 Linh Thảo
+- Tầng 2→3: 2,500 Exp + 100 Linh Thảo
+- Tầng 3→4: 5,000 Exp + 200 Linh Thảo + 10 Hỏa Linh Thạch
+- Tầng 4→5: 10,000 Exp + 400 Linh Thảo + 25 Hỏa Linh Thạch
+- Tầng 5→6: 18,000 Exp + 700 Linh Thảo + 50 Hỏa Linh Thạch
+- Tầng 6→7: 30,000 Exp + 1,200 Linh Thảo + 100 Hỏa Linh Thạch + 1 Địa Hỏa Chủng
+- Tầng 7→8: 50,000 Exp + 2,000 Linh Thảo + 180 Hỏa Linh Thạch + 3 Địa Hỏa Chủng
+- Tầng 8→9: 80,000 Exp + 3,500 Linh Thảo + 300 Hỏa Linh Thạch + 5 Địa Hỏa Chủng
+
+**Có thể luyện:**
+- Tầng 1-3: Đan Hạ Phẩm (Tụ Khí Đan, Ma Đạo Đan, Thể Tu Đan)
+- Tầng 4-6: Đan Trung Phẩm (Tiểu Hoàn Đan, Trúc Cơ Đan)
+- Tầng 7-9: Đan Thượng Phẩm (Đại Hoàn Đan)
+
+**Tỷ lệ thành công:**
+- Tầng 1: 30%
+- Tầng 3: 50%
+- Tầng 5: 70%
+- Tầng 7: 85%
+- Tầng 9: 95%
+
+**Đột phá Linh Hỏa 9 → Linh Dược Sư 1:**
+- Yêu cầu: 200,000 Luyện Đan Exp
+- Tài nguyên: 10,000 Linh Thảo + 1,000 Hỏa Linh Thạch + 20 Địa Hỏa Chủng + 5 Thiên Hỏa Tinh Túy + 500 Tiên Ngọc
+- Thử thách: Luyện thành công 1 Thiên Linh Đan (độ khó cực cao)
+- Thành công: Tỷ lệ thành công tăng gấp đôi, unlock công thức đan cấp cao
+
+---
+
+## 💊 CẢNH GIỚI 2: LINH DƯỢC SƯ (灵药师境) - Tầng 1-9
+
+**Đặc điểm:**
+- Bậc thầy luyện đan
+- Có thể luyện đan cực phẩm
+- Tỷ lệ thành công cao
+
+**Yêu cầu nâng tầng:**
+- Tầng 1→2: 100,000 Exp + 500 Tiên Ngọc + 50 Thiên Hỏa Tinh Túy
+- Tầng 2→3: 180,000 Exp + 900 Tiên Ngọc + 90 Thiên Hỏa Tinh Túy
+- Tầng 3→4: 300,000 Exp + 1,500 Tiên Ngọc + 150 Thiên Hỏa Tinh Túy + 10 Vạn Niên Linh Dược
+- Tầng 4→5: 500,000 Exp + 2,500 Tiên Ngọc + 250 Thiên Hỏa Tinh Túy + 25 Vạn Niên Linh Dược
+- Tầng 5→6: 800,000 Exp + 4,000 Tiên Ngọc + 400 Thiên Hỏa Tinh Túy + 50 Vạn Niên Linh Dược
+- Tầng 6→7: 1,300,000 Exp + 6,500 Tiên Ngọc + 650 Thiên Hỏa Tinh Túy + 90 Vạn Niên Linh Dược + 5 Thái Cổ Linh Dược
+- Tầng 7→8: 2,000,000 Exp + 10,000 Tiên Ngọc + 1,000 Thiên Hỏa Tinh Túy + 150 Vạn Niên Linh Dược + 12 Thái Cổ Linh Dược
+- Tầng 8→9: 3,200,000 Exp + 16,000 Tiên Ngọc + 1,600 Thiên Hỏa Tinh Túy + 250 Vạn Niên Linh Dược + 25 Thái Cổ Linh Dược
+
+**Có thể luyện:**
+- Tầng 1-3: Đan Cực Phẩm (Thiên Linh Đan, Kim Đan)
+- Tầng 4-6: Đan Tiên Phẩm (Tiên Linh Đan, Cổ Ma Đan)
+- Tầng 7-9: Đan Thần Phẩm (Thái Cổ Linh Đan)
+
+**Tỷ lệ thành công:**
+- Tầng 1: 60% (đan cực phẩm)
+- Tầng 5: 85%
+- Tầng 9: 98%
+
+**Đột phá Linh Dược Sư 9 → Đan Thánh 1:**
+- Yêu cầu: 10,000,000 Luyện Đan Exp
+- Tài nguyên: 50,000 Tiên Ngọc + 5,000 Thiên Hỏa Tinh Túy + 1,000 Vạn Niên Linh Dược + 100 Thái Cổ Linh Dược + 50 Hồng Mông Linh Thảo + 10 Hỗn Độn Hỏa Chủng
+- Thử thách: Luyện thành công 1 Hỗn Độn Linh Đan (99% người thất bại)
+- Thành công: Trở thành Đan Thánh, mọi đan đều 100% thành công
+
+---
+
+## 🏆 CẢNH GIỚI 3: ĐAN THÁNH (丹圣境) - Tầng 1-9
+
+**Đặc điểm:**
+- Đỉnh cao luyện đan
+- Có thể tạo ra đan dược thần thoại
+- 100% thành công mọi loại đan
+- Có thể cải tiến công thức
+
+**Yêu cầu nâng tầng:**
+- Tầng 1→2: 5M Exp + 25,000 Tiên Ngọc + 100 Thái Cổ Linh Dược + 50 Hồng Mông Linh Thảo
+- Tầng 2→3: 9M Exp + 45,000 Tiên Ngọc + 180 Thái Cổ Linh Dược + 90 Hồng Mông Linh Thảo
+- Tầng 3→4: 15M Exp + 75,000 Tiên Ngọc + 300 Thái Cổ Linh Dược + 150 Hồng Mông Linh Thảo + 10 Hỗn Độn Hỏa Chủng
+- Tầng 4→5: 25M Exp + 125,000 Tiên Ngọc + 500 Thái Cổ Linh Dược + 250 Hồng Mông Linh Thảo + 25 Hỗn Độn Hỏa Chủng
+- Tầng 5→6: 40M Exp + 200,000 Tiên Ngọc + 800 Thái Cổ Linh Dược + 400 Hồng Mông Linh Thảo + 50 Hỗn Độn Hỏa Chủng
+- Tầng 6→7: 65M Exp + 325,000 Tiên Ngọc + 1,300 Thái Cổ Linh Dược + 650 Hồng Mông Linh Thảo + 90 Hỗn Độn Hỏa Chủng + 5 Thái Sơ Thiên Hỏa
+- Tầng 7→8: 100M Exp + 500,000 Tiên Ngọc + 2,000 Thái Cổ Linh Dược + 1,000 Hồng Mông Linh Thảo + 150 Hỗn Độn Hỏa Chủng + 12 Thái Sơ Thiên Hỏa
+- Tầng 8→9: 160M Exp + 800,000 Tiên Ngọc + 3,200 Thái Cổ Linh Dược + 1,600 Hồng Mông Linh Thảo + 250 Hỗn Độn Hỏa Chủng + 25 Thái Sơ Thiên Hỏa
+
+**Có thể luyện:**
+- Tầng 1-3: Đan Huyền Phẩm (Hỗn Độn Linh Đan)
+- Tầng 4-6: Đan Hoang Phẩm (Thái Sơ Đan)
+- Tầng 7-9: Đan Thánh Phẩm (Vạn Cổ Bất Diệt Đan, Trường Sinh Đan)
+
+**Khả năng đặc biệt:**
+- Tầng 1: 100% thành công mọi đan
+- Tầng 3: Có thể nhân đôi số lượng đan (1 lò ra 2 viên)
+- Tầng 5: Có thể nâng cấp đan (Hạ phẩm → Trung phẩm)
+- Tầng 7: Có thể tạo công thức mới
+- Tầng 9: Có thể luyện Trường Sinh Đan (bất tử)
+
+---
+
+## 🌿 HỆ THỐNG NGUYÊN LIỆU
+
+### **PHÂN CẤP NGUYÊN LIỆU**
+
+1. **Phàm Cấp** (Thường) - Màu trắng
+2. **Linh Cấp** (Khá hiếm) - Màu xanh lá
+3. **Huyền Cấp** (Hiếm) - Màu xanh dương
+4. **Địa Cấp** (Rất hiếm) - Màu tím
+5. **Thiên Cấp** (Cực hiếm) - Màu vàng
+6. **Tiên Cấp** (Legendary) - Màu cam
+7. **Thần Cấp** (Mythic) - Màu đỏ
+8. **Hỗn Độn Cấp** (Ultimate) - Màu cầu vồng
+
+---
+
+## 🌱 DANH SÁCH NGUYÊN LIỆU CHI TIẾT
+
+### **1. PHÀM CẤP (Cấp Thường) ⬜**
+
+#### **Thảo Dược Cơ Bản:**
+1. **Linh Thảo** (灵草): Cỏ linh khí cơ bản
+   - Drop: Mọi nơi, rất phổ biến
+   - Dùng: Đan cơ bản
+   
+2. **Bạch Tâm Thảo** (白心草): Cỏ trắng hình trái tim
+   - Drop: Đồng cỏ
+   - Dùng: Tụ Khí Đan
+   
+3. **Thanh Diệp Hoa** (青叶花): Hoa lá xanh
+   - Drop: Rừng cây
+   - Dùng: Hồi HP
+
+4. **Hoàng Liên Hoa** (黄莲花): Hoa sen vàng
+   - Drop: Hồ nước
+   - Dùng: Giải độc
+
+5. **Xích Quả** (赤果): Quả đỏ
+   - Drop: Cây cối
+   - Dùng: Tăng máu tạm thời
+
+#### **Khoáng Sản Cơ Bản:**
+6. **Linh Thạch** (灵石): Đá linh khí
+   - Drop: Hang động, mỏ đá
+   - Dùng: Currency + nguyên liệu
+
+7. **Thiết Khoáng** (铁矿): Quặng sắt
+   - Drop: Núi đá
+   - Dùng: Đan tu thể
+
+8. **Đồng Tinh** (铜精): Đồng tinh khiết
+   - Drop: Mỏ đồng
+   - Dùng: Đan cơ bản
+
+#### **Vật Phẩm Sinh Vật:**
+9. **Thú Cốt** (兽骨): Xương thú
+   - Drop: Yêu thú cấp thấp
+   - Dùng: Thể Tu Đan
+
+10. **Thú Huyết** (兽血): Máu thú
+    - Drop: Yêu thú
+    - Dùng: Hồi HP
+
+---
+
+### **2. LINH CẤP (Khá Hiếm) 🟢**
+
+#### **Thảo Dược Linh:**
+11. **Bách Niên Linh Sâm** (百年灵参): Sâm 100 năm
+    - Drop: Rừng sâu (5% drop rate)
+    - Dùng: Trúc Cơ Đan
+    - Effect: Tăng 50% exp tu luyện
+
+12. **Huyết Liên Hoa** (血莲花): Hoa sen máu
+    - Drop:�늪 độc (3% drop rate)
+    - Dùng: Hồi máu mạnh
+
+13. **Băng Tâm Thảo** (冰心草): Cỏ băng tâm
+    - Drop: Núi tuyết (4% drop rate)
+    - Dùng: Thanh tâm, giảm ma khí
+
+14. **Hỏa Linh Chi** (火灵芝): Nấm linh hỏa
+    - Drop: Hang động nham thạch (2% drop rate)
+    - Dùng: Tăng sức mạnh linh hỏa
+
+15. **Lôi Kiếp Mộc** (雷劫木): Gỗ bị sét đánh
+    - Drop: Cây bị sét (1% drop rate)
+    - Dùng: Đan lôi hệ
+
+#### **Khoáng Sản Linh:**
+16. **Hỏa Linh Thạch** (火灵石): Đá linh hỏa
+    - Drop: Núi lửa (3% drop rate)
+    - Dùng: Luyện đan, tăng nhiệt độ lò
+
+17. **Băng Tinh Thạch** (冰晶石): Đá băng tinh
+    - Drop: Động băng (3% drop rate)
+    - Dùng: Đan hệ băng
+
+18. **Lôi Linh Châu** (雷灵珠): Châu lôi linh
+    - Drop: Khu vực có sét (2% drop rate)
+    - Dùng: Đan hệ lôi
+
+#### **Vật Phẩm Sinh Vật Linh:**
+19. **Yêu Thú Tinh Huyết** (妖兽精血): Tinh huyết yêu thú
+    - Drop: Boss yêu thú (10% drop rate)
+    - Dùng: Ma Đạo Đan
+
+20. **Yêu Hạch** (妖核): Hạt nhân yêu thú
+    - Drop: Yêu thú mạnh (5% drop rate)
+    - Dùng: Đan tăng sức mạnh
+
+---
+
+### **3. HUYỀN CẤP (Hiếm) 🔵**
+
+#### **Thảo Dược Huyền:**
+21. **Thiên Niên Tuyết Liên** (千年雪莲): Hoa tuyết 1000 năm
+    - Drop: Đỉnh núi tuyết (0.5% drop rate)
+    - Dùng: Đại Hoàn Đan
+    - Effect: Đột phá cảnh giới dễ hơn
+
+22. **Cửu Khúc Linh Sâm** (九曲灵参): Sâm 9 khúc
+    - Drop: Thung lũng bí mật (0.3% drop rate)
+    - Dùng: Tiểu Hoàn Đan
+
+23. **Kim Liên Tử** (金莲子): Hạt sen vàng
+    - Drop: Hồ thiên (0.4% drop rate)
+    - Dùng: Kim Đan
+
+24. **Phục Linh Chi** (伏灵芝): Nấm linh ngàn năm
+    - Drop: Gốc cây cổ thụ (0.2% drop rate)
+    - Dùng: Tăng tuổi thọ
+
+25. **Huyết Bồ Đề Tử** (血菩提子): Quả bồ đề máu
+    - Drop: Cây bồ đề cổ (0.1% drop rate)
+    - Dùng: Đan Ma Đạo cao cấp
+
+#### **Khoáng Sản Huyền:**
+26. **Ngũ Hành Tinh Túy** (五行精粹): Tinh túy 5 hành
+    - Drop: Nơi giao thoa 5 hành (0.3% drop rate)
+    - Dùng: Ngũ Hành Đan
+
+27. **Không Gian Thạch** (空间石): Đá không gian
+    - Drop: Khe nứt không gian (0.1% drop rate)
+    - Dùng: Đan dịch chuyển
+
+28. **Thời Gian Sa** (时间沙): Cát thời gian
+    - Drop: Sa mạc thời gian (0.05% drop rate)
+    - Dùng: Đan tăng tuổi thọ
+
+#### **Vật Phẩm Sinh Vật Huyền:**
+29. **Rồng Lân** (龙鳞): Vảy rồng
+    - Drop: Boss Rồng (1% drop rate)
+    - Dùng: Đan tăng phòng thủ cực mạnh
+
+30. **Phượng Hoàng Võ** (凤凰羽): Lông phượng hoàng
+    - Drop: Boss Phượng Hoàng (1% drop rate)
+    - Dùng: Đan hồi sinh
+
+---
+
+### **4. ĐỊA CẤP (Rất Hiếm) 🟣**
+
+#### **Thảo Dược Địa:**
+31. **Vạn Niên Linh Dược** (万年灵药): Dược 10,000 năm
+    - Drop: Địa cung sâu (0.1% drop rate)
+    - Dùng: Trúc Cơ Đan cao cấp
+
+32. **Hồn Hồi Thảo** (魂回草): Cỏ hồi hồn
+    - Drop: Địa phủ (0.05% drop rate)
+    - Dùng: Hồi sinh người chết
+
+33. **Bất Tử Thảo** (不死草): Cỏ bất tử
+    - Drop: Thánh địa (0.01% drop rate)
+    - Dùng: Bất Tử Đan
+
+34. **Địa Tâm Hỏa Liên** (地心火莲): Sen hỏa lõi đất
+    - Drop: Magma core (0.02% drop rate)
+    - Dùng: Đan hỏa hệ tối thượng
+
+35. **Huyền Thiên Bảo Quả** (玄天宝果): Quả bảo huyền thiên
+    - Drop: Thiên không đảo (0.03% drop rate)
+    - Dùng: Tăng cảnh giới
+
+#### **Khoáng Sản Địa:**
+36. **Địa Hỏa Chủng** (地火种): Hạt giống địa hỏa
+    - Drop: Núi lửa ngàn năm (0.05% drop rate)
+    - Dùng: Nâng cấp lò luyện đan
+
+37. **Hỗn Độn Tinh Anh** (混沌精英): Tinh anh hỗn độn
+    - Drop: Khe hỗn độn (0.01% drop rate)
+    - Dùng: Đan đột phá
+
+38. **Kim Hành Tinh Thạch** (金行星石): Đá sao kim hành
+    - Drop: Thiên thạch (0.02% drop rate)
+    - Dùng: Kim Đan
+
+#### **Vật Phẩm Sinh Vật Địa:**
+39. **Cổ Thần Huyết** (古神血): Máu Cổ Thần
+    - Drop: Boss Cổ Thần (0.5% drop rate)
+    - Dùng: Cổ Thần Đan
+
+40. **Ma Thần Tinh Huyết** (魔神精血): Tinh huyết Ma Thần
+    - Drop: Boss Ma Thần (0.5% drop rate)
+    - Dùng: Ma Đạo Đan cao cấp
+
+---
+
+### **5. THIÊN CẤP (Cực Hiếm) 🟡**
+
+#### **Thảo Dược Thiên:**
+41. **Thái Cổ Linh Dược** (太古灵药): Dược thời thái cổ
+    - Drop: Di tích thái cổ (0.01% drop rate)
+    - Dùng: Thiên Linh Đan
+
+42. **Thông Thiên Thần Mộc** (通天神木): Gỗ thông thiên
+    - Drop: Cây thông thiên (0.005% drop rate)
+    - Dùng: Đan vượt kiếp
+
+43. **Thái Âm Huyền Thảo** (太阴玄草): Cỏ thái âm
+    - Drop: Mặt trăng (0.002% drop rate)
+    - Dùng: Âm hệ tối thượng đan
+
+44. **Thái Dương Linh Hoa** (太阳灵花): Hoa thái dương
+    - Drop: Mặt trời (0.002% drop rate)
+    - Dùng: Dương hệ tối thượng đan
+
+45. **Tinh Thần Linh Quả** (星辰灵果): Quả tinh tú
+    - Drop: Sao băng (0.001% drop rate)
+    - Dùng: Tinh hệ đan
+
+#### **Khoáng Sản Thiên:**
+46. **Thiên Hỏa Tinh Túy** (天火精粹): Tinh túy thiên hỏa
+    - Drop: Thiên kiếp (0.01% drop rate)
+    - Dùng: Luyện đan cấp cao
+
+47. **Tiên Linh Thạch** (仙灵石): Đá tiên linh
+    - Drop: Tiên giới (0.005% drop rate)
+    - Dùng: Tiên phẩm đan
+
+48. **Hỗn Độn Nguyên Thạch** (混沌源石): Đá nguồn hỗn độn
+    - Drop: Hỗn độn chi địa (0.001% drop rate)
+    - Dùng: Hỗn Độn Đan
+
+#### **Vật Phẩm Sinh Vật Thiên:**
+49. **Tiên Nhân Linh Hồn** (仙人灵魂): Linh hồn tiên nhân
+    - Drop: Giết Tiên Nhân (0.1% drop rate)
+    - Dùng: Ma Đạo đan tối thượng
+
+50. **Thần Thú Huyết** (神兽血): Máu thần thú
+    - Drop: Thần thú (0.01% drop rate)
+    - Dùng: Thần phẩm đan
+
+---
+
+### **6. TIÊN CẤP (Legendary) 🟠**
+
+#### **Thảo Dược Tiên:**
+51. **Hồng Mông Linh Thảo** (鸿蒙灵草): Cỏ linh hồng mông
+    - Drop: Hồng mông chi địa (0.001% drop rate)
+    - Dùng: Hồng Mông Đan
+
+52. **Trường Sinh Quả** (长生果): Quả trường sinh
+    - Drop: Vườn bất tử (0.0005% drop rate)
+    - Dùng: Trường Sinh Đan
+
+53. **Đạo Linh Hoa** (道灵花): Hoa linh đạo
+    - Drop: Đạo tổ thánh địa (0.0001% drop rate)
+    - Dùng: Ngộ đạo
+
+54. **Thần Vương Thảo** (神王草): Cỏ thần vương
+    - Drop: Thần giới (0.0002% drop rate)
+    - Dùng: Thành thần
+
+55. **Bất Diệt Linh Dược** (不灭灵药): Dược bất diệt
+    - Drop: Bất diệt chi địa (0.0001% drop rate)
+    - Dùng: Bất Diệt Đan
+
+#### **Khoáng Sản Tiên:**
+56. **Tiên Ngọc Mẫu** (仙玉母): Mẹ của Tiên Ngọc
+    - Drop: Mỏ tiên ngọc (0.0005% drop rate)
+    - Dùng: Tiên phẩm đan, lò đan tối thượng
+
+57. **Hỗn Độn

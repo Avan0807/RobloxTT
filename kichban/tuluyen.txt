@@ -1,0 +1,760 @@
+# 📜 HỆ THỐNG TU LUYỆN THEO CẢNH GIỚI - GAME TIÊN NGHỊCH
+
+## 🌟 TỔNG QUAN 3 HỆ TU LUYỆN
+
+Mỗi hệ có **Đột phá Ma Đạo 9 Tinh → Ma Tôn 1 Tinh:**
+- Yêu cầu: Ma Đạo 9 Tinh (Đại Viên Mãn) + **Hồn Phiên chứa 2000+ linh hồn**
+- Tài nguyên: 700 Ma Đạo Đan + 2000 Phàm Nhân Linh Hồn + 300 Tu Sĩ Linh Hồn + 50 Yêu Thú Linh Hồn + 10 Cao Thủ Linh Hồn + 1 Hồn Phiên (Trung Phẩm) + 120 Tiên Ngọc
+- Tàn Sát Yêu Cầu: Đã giết ít nhất 1000 sinh linh (NPC/quái)
+- Thiên Kiếp: Boss "Nội Tâm Ma" (chiến với chính mình)
+- Thành công: Hồn Phiên tiến hóa, có thể chứa 10,000 linh hồn, chỉ số nhân đôi
+
+**Hệ Thống Hồn Phiên:**
+- Mỗi lần giết địch → Hút 1 linh hồn vào Hồn Phiên
+- Hồn Phiên càng nhiều linh hồn → Skill càng mạnh
+- Có thể "Tế Lễ Hồn Phiên" để đổi linh hồn lấy buff tạm thời:
+  - 100 linh hồn: +50% Soul Dmg trong 10 phút
+  - 500 linh hồn: Triệu hồi Boss Oan Hồn chiến đấu cùng (5 phút)
+  - 1000 linh hồn: Ma Hóa - Biến thành Ma Nhân (10 phút)
+
+---
+
+### **CẢNH 2: MA TÔN (魔尊) - 1-9 Tinh ✦**
+
+**Đặc điểm:**
+- Hồn Phiên tiến hóa thành Vạn Hồn Phan (萬魂幡)
+- Có thể triệu hồi Ma Vực, bẫy linh hồn địch
+- Tàn sát là con đường tu luyện
+
+**Chỉ số tăng theo tinh:**
+- **1 Tinh**: Base Stats × 10.0 | HP: 5500 | Soul Dmg: 750 | Vạn Hồn Phan: 10,000 linh hồn
+- **2 Tinh**: Base Stats × 13.0 | HP: 7150 | Soul Dmg: 975 | Vạn Hồn Phan: 15,000 linh hồn
+- **3 Tinh**: Base Stats × 17.0 | HP: 9350 | Soul Dmg: 1275 | Vạn Hồn Phan: 22,000 linh hồn
+- **4 Tinh**: Base Stats × 22.0 | HP: 12100 | Soul Dmg: 1650 | Vạn Hồn Phan: 32,000 linh hồn
+- **5 Tinh**: Base Stats × 28.5 | HP: 15675 | Soul Dmg: 2138 | Vạn Hồn Phan: 45,000 linh hồn
+- **6 Tinh**: Base Stats × 37.0 | HP: 20350 | Soul Dmg: 2775 | Vạn Hồn Phan: 65,000 linh hồn
+- **7 Tinh**: Base Stats × 48.0 | HP: 26400 | Soul Dmg: 3600 | Vạn Hồn Phan: 90,000 linh hồn
+- **8 Tinh**: Base Stats × 62.0 | HP: 34100 | Soul Dmg: 4650 | Vạn Hồn Phan: 130,000 linh hồn
+- **9 Tinh**: Base Stats × 80.0 | HP: 44000 | Soul Dmg: 6000 | Vạn Hồn Phan: 180,000 linh hồn
+
+**Đan Dược & Tài nguyên để nâng tinh:**
+- 1→2 Tinh: 70 Ma Tôn Đan + 180 Tiên Ngọc + 200 Tu Sĩ Linh Hồn + 20 Cao Thủ Linh Hồn
+- 2→3 Tinh: 110 Ma Tôn Đan + 320 Tiên Ngọc + 400 Tu Sĩ Linh Hồn + 40 Cao Thủ Linh Hồn
+- 3→4 Tinh: 160 Ma Tôn Đan + 520 Tiên Ngọc + 700 Tu Sĩ Linh Hồn + 70 Cao Thủ Linh Hồn + 5 Boss Linh Hồn
+- 4→5 Tinh: 240 Ma Tôn Đan + 800 Tiên Ngọc + 1100 Tu Sĩ Linh Hồn + 110 Cao Thủ Linh Hồn + 12 Boss Linh Hồn
+- 5→6 Tinh: 340 Ma Tôn Đan + 1250 Tiên Ngọc + 1700 Tu Sĩ Linh Hồn + 170 Cao Thủ Linh Hồn + 22 Boss Linh Hồn
+- 6→7 Tinh: 480 Ma Tôn Đan + 1900 Tiên Ngọc + 2600 Tu Sĩ Linh Hồn + 260 Cao Thủ Linh Hồn + 38 Boss Linh Hồn + 1 Vạn Hồn Phan (Trung Phẩm)
+- 7→8 Tinh: 670 Ma Tôn Đan + 2800 Tiên Ngọc + 3900 Tu Sĩ Linh Hồn + 390 Cao Thủ Linh Hồn + 60 Boss Linh Hồn
+- 8→9 Tinh: 920 Ma Tôn Đan + 4200 Tiên Ngọc + 5700 Tu Sĩ Linh Hồn + 570 Cao Thủ Linh Hồn + 95 Boss Linh Hồn
+
+**Công Pháp Ma Tôn:**
+1. **Vạn Hồn Phiên Động Thiên Địa** (1 Tinh+): Vạn Hồn Phan phóng ra sóng linh hồn
+   - +150% Soul Dmg
+   - Skill: "Hồn Hải Mạn Thiên" - AOE 50m, mỗi linh hồn gây 1 damage
+   - Nếu Vạn Hồn Phan có 50,000 linh hồn → Gây 50,000 AOE damage!
+
+2. **Thị Hồn Ma Công** (4 Tinh+): Ăn linh hồn để tăng sức mạnh vĩnh viễn
+   - +200% Soul Dmg
+   - Passive: Mỗi 1000 linh hồn trong Phan = +1% Stats (max +180%)
+   - Skill: "Thị Hồn" - Nuốt 1000 linh hồn từ Phan để hồi full HP
+
+3. **Ma Vức Linh Ngục Trận** (7 Tinh+): Tạo Ma Vực bẫy linh hồn
+   - +280% Soul Dmg
+   - Skill: "Ma Vực Triển Khai" - Tạo không gian 80m
+   - Trong Ma Vực: Địch -50% stats, bị hút linh hồn liên tục (10/giây)
+   - Khi địch chết trong Ma Vực → Linh hồn tự động vào Vạn Hồn Phan
+
+**Đột phá Ma Tôn 9 Tinh → Ma Hoàng 1 Tinh:**
+- Yêu cầu: Ma Tôn 9 Tinh + **Vạn Hồn Phan chứa 180,000+ linh hồn**
+- Tài nguyên: 1800 Ma Tôn Đan + 7500 Tiên Ngọc + 10000 Tu Sĩ Linh Hồn + 1000 Cao Thủ Linh Hồn + 200 Boss Linh Hồn + 20 Tiên Nhân Linh Hồn + 1 Vạn Hồn Phan (Thượng Phẩm)
+- Tàn Sát Yêu Cầu: Đã giết ít nhất 50,000 sinh linh
+- Thiên Kiếp: Boss "Ma Hoàng Tâm Ma" (boss dùng Vạn Hồn Phan giống mình)
+- Thành công: Vạn Hồn Phan tiến hóa thành Diệt Thế Ma Phan, có thể chứa 1,000,000 linh hồn
+
+---
+
+### **CẢNH 3: MA HOÀNG (魔皇) - 1-9 Tinh ✦**
+
+**Đặc điểm:**
+- Đỉnh cao Ma Đạo, chủ nhân Diệt Thế Ma Phan
+- Có thể nuốt linh hồn Tiên Nhân, thậm chí Thần Linh
+- Mỗi lần tàn sát đều tăng sức mạnh
+
+**Chỉ số tăng theo tinh:**
+- **1 Tinh**: Base Stats × 160.0 | HP: 88000 | Soul Dmg: 12000 | Diệt Thế Ma Phan: 1,000,000 linh hồn
+- **2 Tinh**: Base Stats × 210.0 | HP: 115500 | Soul Dmg: 15750 | Diệt Thế Ma Phan: 1,500,000 linh hồn
+- **3 Tinh**: Base Stats × 275.0 | HP: 151250 | Soul Dmg: 20625 | Diệt Thế Ma Phan: 2,200,000 linh hồn
+- **4 Tinh**: Base Stats × 360.0 | HP: 198000 | Soul Dmg: 27000 | Diệt Thế Ma Phan: 3,200,000 linh hồn
+- **5 Tinh**: Base Stats × 470.0 | HP: 258500 | Soul Dmg: 35250 | Diệt Thế Ma Phan: 4,500,000 linh hồn
+- **6 Tinh**: Base Stats × 610.0 | HP: 335500 | Soul Dmg: 45750 | Diệt Thế Ma Phan: 6,500,000 linh hồn
+- **7 Tinh**: Base Stats × 790.0 | HP: 434500 | Soul Dmg: 59250 | Diệt Thế Ma Phan: 9,000,000 linh hồn
+- **8 Tinh**: Base Stats × 1020.0 | HP: 561000 | Soul Dmg: 76500 | Diệt Thế Ma Phan: 13,000,000 linh hồn
+- **9 Tinh**: Base Stats × 1300.0 | HP: 715000 | Soul Dmg: 97500 | Diệt Thế Ma Phan: 18,000,000 linh hồn
+
+**Đan Dược & Tài nguyên để nâng tinh:**
+- 1→2 Tinh: 140 Ma Hoàng Linh Đan + 5500 Tiên Ngọc + 800 Cao Thủ Linh Hồn + 150 Boss Linh Hồn + 15 Tiên Nhân Linh Hồn
+- 2→3 Tinh: 200 Ma Hoàng Linh Đan + 9500 Tiên Ngọc + 1300 Cao Thủ Linh Hồn + 250 Boss Linh Hồn + 28 Tiên Nhân Linh Hồn
+- 3→4 Tinh: 290 Ma Hoàng Linh Đan + 15000 Tiên Ngọc + 2000 Cao Thủ Linh Hồn + 400 Boss Linh Hồn + 48 Tiên Nhân Linh Hồn + 12 Thái Cổ Linh Đan
+- 4→5 Tinh: 410 Ma Hoàng Linh Đan + 23000 Tiên Ngọc + 3100 Cao Thủ Linh Hồn + 610 Boss Linh Hồn + 78 Tiên Nhân Linh Hồn + 22 Thái Cổ Linh Đan
+- 5→6 Tinh: 580 Ma Hoàng Linh Đan + 35000 Tiên Ngọc + 4600 Cao Thủ Linh Hồn + 920 Boss Linh Hồn + 125 Tiên Nhân Linh Hồn + 35 Thái Cổ Linh Đan
+- 6→7 Tinh: 810 Ma Hoàng Linh Đan + 52000 Tiên Ngọc + 6800 Cao Thủ Linh Hồn + 1360 Boss Linh Hồn + 195 Tiên Nhân Linh Hồn + 55 Thái Cổ Linh Đan + 8 Ma Tổ Linh Dược
+- 7→8 Tinh: 1100 Ma Hoàng Linh Đan + 75000 Tiên Ngọc + 10000 Cao Thủ Linh Hồn + 2000 Boss Linh Hồn + 300 Tiên Nhân Linh Hồn + 85 Thái Cổ Linh Đan + 15 Ma Tổ Linh Dược
+- 8→9 Tinh: 1500 Ma Hoàng Linh Đan + 110000 Tiên Ngọc + 14500 Cao Thủ Linh Hồn + 2900 Boss Linh Hồn + 450 Tiên Nhân Linh Hồn + 130 Thái Cổ Linh Đan + 25 Ma Tổ Linh Dược
+
+**Công Pháp Ma Hoàng:**
+1. **Diệt Thế Ma Phan - Linh Hồn Phong Ấn** (1 Tinh+): Phong ấn linh hồn địch vào Ma Phan
+   - +500% Soul Dmg
+   - Skill: "Linh Hồn Phong Ấn" - Hút linh hồn địch sống vào Ma Phan (instant kill nếu HP < 30%)
+   - Địch bị phong ấn không thể hồi sinh
+
+2. **Ma Hoàng Chân Thân - Vạn Linh Thôn Phệ** (4 Tinh+): Biến thành Ma Hoàng, nuốt mọi linh hồn
+   - +800% Soul Dmg
+   - Skill: "Ma Hoàng Hóa Thân" - Biến thành Ma Hoàng (3 phút)
+   - Trong trạng thái Ma Hoàng: Mỗi giây hút 100 linh hồn từ mọi sinh linh trong 100m
+   - Mỗi linh hồn hút được = +0.01% stats tạm thời
+
+3. **Vạn Ma Chi Tổ - Hồn Phiên Giới** (7 Tinh+): Tạo Hồn Phiên Giới - thế giới của Ma
+   - +1200% Soul Dmg
+   - Ultimate: "Hồn Phiên Giới Triển Khai" - Tạo thế giới riêng 200m (5 phút, 1 lần/ngày)
+   - Trong Hồn Phiên Giới:
+     - Triệu hồi vô hạn oan hồn từ Diệt Thế Ma Phan
+     - Địch mất 5% max HP/giây
+     - Không thể thoát ra ngoài
+     - Khi chết trong Hồn Phiên Giới → Linh hồn bị giam mãi mãi
+
+**Hệ Thống Tàn Sát (Slaughter System):**
+- Mỗi lần giết NPC/Player: +1 Sát Khí
+- Sát Khí càng cao → Damage càng mạnh:
+  - 100 Sát Khí: +10% Soul Dmg
+  - 1,000 Sát Khí: +50% Soul Dmg
+  - 10,000 Sát Khí: +150% Soul Dmg
+  - 100,000 Sát Khí: +500% Soul Dmg (Ma Đầu Huyền Thoại)
+- Nhưng: Sát Khí cao → Bị thành trấn NPC hunt, giá đầu tăng, không vào được thành phố
+
+**Phân Loại Linh Hồn:**
+1. **Phàm Nhân Linh Hồn**: Drop từ NPC thường
+2. **Tu Sĩ Linh Hồn**: Drop từ tu sĩ Ngưng Khí - Trúc Cơ
+3. **Cao Thủ Linh Hồn**: Drop từ tu sĩ Nguyên Anh
+4. **Yêu Thú Linh Hồn**: Drop từ boss yêu thú
+5. **Boss Linh Hồn**: Drop từ dungeon boss
+6. **Tiên Nhân Linh Hồn**: Drop từ Tiên Nhân (cực hiếm)
+7. **Thần Linh Hồn**: Drop từ Thần (legendary)3 Đại Cảnh Giới**, mỗi cảnh giới có **9 cấp độ** nhưng gọi tên khác nhau:
+
+| Cảnh Giới | Tiên Thiên | Cổ Thần | Ma Đạo |
+|-----------|-----------|---------|--------|
+| **Cảnh 1** | Ngưng Khí (Tầng 1-9) | Cổ Thần (1-9 Sao) | Ma Đạo (1-9 Tinh) |
+| **Cảnh 2** | Trúc Cơ (Tầng 1-9) | Cổ Ma (1-9 Sao) | Ma Tôn (1-9 Tinh) |
+| **Cảnh 3** | Nguyên Anh (Tầng 1-9) | Cổ Tôn (1-9 Sao) | Ma Hoàng (1-9 Tinh) |
+
+---
+
+## ⚡ HỆ TIÊN THIÊN (仙天) - Tu Linh Lực
+
+### **CẢNH 1: NGƯNG KHÍ (凝气) - Tầng 1-9**
+
+**Đặc điểm:**
+- Ngưng tụ linh khí thiên địa vào thân
+- Tu luyện pháp thuật, kiểm soát nguyên tố
+- Xây dựng nền tảng tu tiên
+
+**Chỉ số tăng theo tầng:**
+- **Tầng 1**: Base Stats × 1.0 | HP: 500 | MP: 600 | Magic Dmg: 50
+- **Tầng 2**: Base Stats × 1.2 | HP: 600 | MP: 720 | Magic Dmg: 60
+- **Tầng 3**: Base Stats × 1.4 | HP: 700 | MP: 840 | Magic Dmg: 70
+- **Tầng 4**: Base Stats × 1.7 | HP: 850 | MP: 1020 | Magic Dmg: 85
+- **Tầng 5**: Base Stats × 2.0 | HP: 1000 | MP: 1200 | Magic Dmg: 100
+- **Tầng 6**: Base Stats × 2.4 | HP: 1200 | MP: 1440 | Magic Dmg: 120
+- **Tầng 7**: Base Stats × 2.8 | HP: 1400 | MP: 1680 | Magic Dmg: 140
+- **Tầng 8**: Base Stats × 3.3 | HP: 1650 | MP: 1980 | Magic Dmg: 165
+- **Tầng 9**: Base Stats × 4.0 | HP: 2000 | MP: 2400 | Magic Dmg: 200
+
+**Đan Dược để nâng tầng:**
+- Tầng 1→2: 10 Tụ Khí Đan
+- Tầng 2→3: 25 Tụ Khí Đan
+- Tầng 3→4: 50 Tụ Khí Đan
+- Tầng 4→5: 80 Tụ Khí Đan + 10 Tiểu Hoàn Đan
+- Tầng 5→6: 120 Tụ Khí Đan + 20 Tiểu Hoàn Đan
+- Tầng 6→7: 180 Tụ Khí Đan + 35 Tiểu Hoàn Đan
+- Tầng 7→8: 250 Tụ Khí Đan + 50 Tiểu Hoàn Đan + 5 Đại Hoàn Đan
+- Tầng 8→9: 350 Tụ Khí Đan + 80 Tiểu Hoàn Đan + 10 Đại Hoàn Đan
+
+**Công Pháp Ngưng Khí:**
+1. **Ngũ Hành Quyết** (Tầng 1+): +30% Magic Dmg, học 5 phép cơ bản
+2. **Thanh Vân Kiếm Quyết** (Tầng 4+): +50% Sword Skill Dmg
+3. **Vân Vũ Lôi Điện Pháp** (Tầng 7+): +70% Lightning Dmg, triệu hồi sét
+
+**Đột phá Ngưng Khí → Trúc Cơ:**
+- Yêu cầu: Ngưng Khí Tầng 9 (Đại Viên Mãn)
+- Tài nguyên: 500 Tụ Khí Đan + 200 Tiểu Hoàn Đan + 50 Đại Hoàn Đan + 20 Trúc Cơ Đan + 100 Tiên Ngọc
+- Thiên Kiếp: Boss "Trúc Cơ Lôi Kiếp" (difficulty: Hard)
+- Thành công: Chỉ số nhân đôi, unlock khả năng bay
+
+---
+
+### **CẢNH 2: TRÚC CƠ (筑基) - Tầng 1-9**
+
+**Đặc điểm:**
+- Xây nền móng vững chắc cho đại đạo
+- Có thể bay lượn, tốc độ nhanh
+- Sử dụng pháp bảo cấp trung
+
+**Chỉ số tăng theo tầng:**
+- **Tầng 1**: Base Stats × 8.0 | HP: 4000 | MP: 4800 | Magic Dmg: 400
+- **Tầng 2**: Base Stats × 10.0 | HP: 5000 | MP: 6000 | Magic Dmg: 500
+- **Tầng 3**: Base Stats × 12.5 | HP: 6250 | MP: 7500 | Magic Dmg: 625
+- **Tầng 4**: Base Stats × 15.5 | HP: 7750 | MP: 9300 | Magic Dmg: 775
+- **Tầng 5**: Base Stats × 19.0 | HP: 9500 | MP: 11400 | Magic Dmg: 950
+- **Tầng 6**: Base Stats × 23.5 | HP: 11750 | MP: 14100 | Magic Dmg: 1175
+- **Tầng 7**: Base Stats × 29.0 | HP: 14500 | MP: 17400 | Magic Dmg: 1450
+- **Tầng 8**: Base Stats × 35.5 | HP: 17750 | MP: 21300 | Magic Dmg: 1775
+- **Tầng 9**: Base Stats × 43.0 | HP: 21500 | MP: 25800 | Magic Dmg: 2150
+
+**Đan Dược để nâng tầng:**
+- Tầng 1→2: 50 Trúc Cơ Đan + 100 Tiên Ngọc
+- Tầng 2→3: 80 Trúc Cơ Đan + 200 Tiên Ngọc
+- Tầng 3→4: 120 Trúc Cơ Đan + 350 Tiên Ngọc
+- Tầng 4→5: 180 Trúc Cơ Đan + 500 Tiên Ngọc + 10 Vạn Niên Linh Dược
+- Tầng 5→6: 250 Trúc Cơ Đan + 800 Tiên Ngọc + 20 Vạn Niên Linh Dược
+- Tầng 6→7: 350 Trúc Cơ Đan + 1200 Tiên Ngọc + 35 Vạn Niên Linh Dược
+- Tầng 7→8: 500 Trúc Cơ Đan + 1800 Tiên Ngọc + 50 Vạn Niên Linh Dược + 5 Thiên Linh Đan
+- Tầng 8→9: 700 Trúc Cơ Đan + 2500 Tiên Ngọc + 80 Vạn Niên Linh Dược + 10 Thiên Linh Đan
+
+**Công Pháp Trúc Cơ:**
+1. **Băng Hỏa Lưỡng Nghi Pháp** (Tầng 1+): +100% Ice/Fire Dmg
+2. **Vạn Kiếm Quy Tông** (Tầng 4+): Triệu hồi 1000 kiếm bay
+3. **Thiên Cơ Bảo Giám** (Tầng 7+): Dự đoán skill địch, +25% Evasion
+
+**Đột phá Trúc Cơ → Nguyên Anh:**
+- Yêu cầu: Trúc Cơ Tầng 9 (Đại Viên Mãn)
+- Tài nguyên: 1500 Trúc Cơ Đan + 5000 Tiên Ngọc + 200 Vạn Niên Linh Dược + 50 Thiên Linh Đan + 30 Kim Đan
+- Thiên Kiếp: Boss "Nguyên Anh Hóa Kiếp" (difficulty: Extreme)
+- Thành công: Kết Kim Đan, Nguyên Anh ra đời, chỉ số nhân đôi
+
+---
+
+### **CẢNH 3: NGUYÊN ANH (元婴) - Tầng 1-9**
+
+**Đặc điểm:**
+- Nguyên Anh có thể rời thể
+- Sức mạnh kinh thiên động địa
+- Có thể dùng pháp bảo tiên gia
+
+**Chỉ số tăng theo tầng:**
+- **Tầng 1**: Base Stats × 86.0 | HP: 43000 | MP: 51600 | Magic Dmg: 4300
+- **Tầng 2**: Base Stats × 110.0 | HP: 55000 | MP: 66000 | Magic Dmg: 5500
+- **Tầng 3**: Base Stats × 140.0 | HP: 70000 | MP: 84000 | Magic Dmg: 7000
+- **Tầng 4**: Base Stats × 180.0 | HP: 90000 | MP: 108000 | Magic Dmg: 9000
+- **Tầng 5**: Base Stats × 230.0 | HP: 115000 | MP: 138000 | Magic Dmg: 11500
+- **Tầng 6**: Base Stats × 290.0 | HP: 145000 | MP: 174000 | Magic Dmg: 14500
+- **Tầng 7**: Base Stats × 370.0 | HP: 185000 | MP: 222000 | Magic Dmg: 18500
+- **Tầng 8**: Base Stats × 470.0 | HP: 235000 | MP: 282000 | Magic Dmg: 23500
+- **Tầng 9**: Base Stats × 600.0 | HP: 300000 | MP: 360000 | Magic Dmg: 30000
+
+**Đan Dược để nâng tầng:**
+- Tầng 1→2: 100 Kim Đan + 3000 Tiên Ngọc + 50 Thiên Linh Đan
+- Tầng 2→3: 150 Kim Đan + 5000 Tiên Ngọc + 80 Thiên Linh Đan
+- Tầng 3→4: 220 Kim Đan + 8000 Tiên Ngọc + 120 Thiên Linh Đan + 10 Tiên Linh Đan
+- Tầng 4→5: 300 Kim Đan + 12000 Tiên Ngọc + 180 Thiên Linh Đan + 20 Tiên Linh Đan
+- Tầng 5→6: 400 Kim Đan + 18000 Tiên Ngọc + 250 Thiên Linh Đan + 35 Tiên Linh Đan
+- Tầng 6→7: 550 Kim Đan + 25000 Tiên Ngọc + 350 Thiên Linh Đan + 50 Tiên Linh Đan + 5 Thái Cổ Linh Đan
+- Tầng 7→8: 750 Kim Đan + 35000 Tiên Ngọc + 500 Thiên Linh Đan + 80 Tiên Linh Đan + 10 Thái Cổ Linh Đan
+- Tầng 8→9: 1000 Kim Đan + 50000 Tiên Ngọc + 700 Thiên Linh Đan + 120 Tiên Linh Đan + 20 Thái Cổ Linh Đan
+
+**Công Pháp Nguyên Anh:**
+1. **Tam Thanh Tứ Ngự Pháp** (Tầng 1+): Triệu hồi 7 vị thần tiên
+2. **Đại La Thiên Tô Thuật** (Tầng 4+): Phong ấn không gian 100m
+3. **Hồng Mông Sơ Khai Pháp** (Tầng 7+): Hồi full HP/MP team, +1000% Magic Dmg
+
+---
+
+## 💪 HỆ CỔ THẦN (古神) - Tu Thể Chất
+
+### **CẢNH 1: CỔ THẦN (古神) - 1-9 Sao ⭐**
+
+**Đặc điểm:**
+- Rèn luyện thân thể đạt cực hạn
+- Sức mạnh vật lý khủng khiếp
+- Không cần mana, toàn sát thương thuần
+
+**Chỉ số tăng theo sao:**
+- **1 Sao ⭐**: Base Stats × 1.0 | HP: 800 | Physical Dmg: 80 | Defense: 60
+- **2 Sao ⭐⭐**: Base Stats × 1.3 | HP: 1040 | Physical Dmg: 104 | Defense: 78
+- **3 Sao ⭐⭐⭐**: Base Stats × 1.6 | HP: 1280 | Physical Dmg: 128 | Defense: 96
+- **4 Sao ⭐⭐⭐⭐**: Base Stats × 2.0 | HP: 1600 | Physical Dmg: 160 | Defense: 120
+- **5 Sao ⭐⭐⭐⭐⭐**: Base Stats × 2.5 | HP: 2000 | Physical Dmg: 200 | Defense: 150
+- **6 Sao**: Base Stats × 3.1 | HP: 2480 | Physical Dmg: 248 | Defense: 186
+- **7 Sao**: Base Stats × 3.8 | HP: 3040 | Physical Dmg: 304 | Defense: 228
+- **8 Sao**: Base Stats × 4.7 | HP: 3760 | Physical Dmg: 376 | Defense: 282
+- **9 Sao**: Base Stats × 6.0 | HP: 4800 | Physical Dmg: 480 | Defense: 360
+
+**Đan Dược để nâng sao:**
+- 1→2 Sao: 15 Thể Tu Đan + 20 Thú Cốt
+- 2→3 Sao: 30 Thể Tu Đan + 40 Thú Cốt
+- 3→4 Sao: 60 Thể Tu Đan + 80 Thú Cốt + 10 Cổ Thần Huyết
+- 4→5 Sao: 100 Thể Tu Đan + 150 Thú Cốt + 25 Cổ Thần Huyết
+- 5→6 Sao: 150 Thể Tu Đan + 250 Thú Cốt + 50 Cổ Thần Huyết
+- 6→7 Sao: 220 Thể Tu Đan + 400 Thú Cốt + 80 Cổ Thần Huyết + 5 Kim Cang Xá Lợi
+- 7→8 Sao: 320 Thể Tu Đan + 600 Thú Cốt + 120 Cổ Thần Huyết + 10 Kim Cang Xá Lợi
+- 8→9 Sao: 450 Thể Tu Đan + 900 Thú Cốt + 180 Cổ Thần Huyết + 20 Kim Cang Xá Lợi
+
+**Công Pháp Cổ Thần:**
+1. **Kim Cang Bất Hoại Công** (1 Sao+): +40% HP, +30% Defense
+2. **Mãnh Hổ Hạ Sơn Quyền** (4 Sao+): +60% Physical Dmg, đấm 3 hit combo
+3. **Thiết Thân Hoành Luyện** (7 Sao+): +80% HP, phản 20% damage
+
+**Đột phá Cổ Thần 9 Sao → Cổ Ma 1 Sao:**
+- Yêu cầu: Cổ Thần 9 Sao (Đại Viên Mãn)
+- Tài nguyên: 800 Thể Tu Đan + 2000 Thú Cốt + 500 Cổ Thần Huyết + 100 Kim Cang Xá Lợi + 50 Cổ Ma Tinh Túy + 150 Tiên Ngọc
+- Thiên Kiếp: Boss "Cổ Ma Thể Kiếp" (phải dùng thân thể chống chịu)
+- Thành công: Thể chất biến đổi, chỉ số nhân đôi, da trở nên cứng như thép
+
+---
+
+### **CẢNH 2: CỔ MA (古魔) - 1-9 Sao ⭐**
+
+**Đặc điểm:**
+- Kết hợp sức mạnh Cổ Thần và Ma Đạo
+- Thể chất vượt xa giới hạn con người
+- Có thể biến hình một phần
+
+**Chỉ số tăng theo sao:**
+- **1 Sao**: Base Stats × 12.0 | HP: 9600 | Physical Dmg: 960 | Defense: 720
+- **2 Sao**: Base Stats × 15.5 | HP: 12400 | Physical Dmg: 1240 | Defense: 930
+- **3 Sao**: Base Stats × 20.0 | HP: 16000 | Physical Dmg: 1600 | Defense: 1200
+- **4 Sao**: Base Stats × 26.0 | HP: 20800 | Physical Dmg: 2080 | Defense: 1560
+- **5 Sao**: Base Stats × 33.5 | HP: 26800 | Physical Dmg: 2680 | Defense: 2010
+- **6 Sao**: Base Stats × 43.0 | HP: 34400 | Physical Dmg: 3440 | Defense: 2580
+- **7 Sao**: Base Stats × 55.0 | HP: 44000 | Physical Dmg: 4400 | Defense: 3300
+- **8 Sao**: Base Stats × 70.0 | HP: 56000 | Physical Dmg: 5600 | Defense: 4200
+- **9 Sao**: Base Stats × 90.0 | HP: 72000 | Physical Dmg: 7200 | Defense: 5400
+
+**Đan Dược để nâng sao:**
+- 1→2 Sao: 80 Cổ Ma Đan + 200 Tiên Ngọc + 30 Kim Cang Xá Lợi
+- 2→3 Sao: 120 Cổ Ma Đan + 350 Tiên Ngọc + 50 Kim Cang Xá Lợi
+- 3→4 Sao: 180 Cổ Ma Đan + 550 Tiên Ngọc + 80 Kim Cang Xá Lợi + 10 Thái Cổ Huyết
+- 4→5 Sao: 260 Cổ Ma Đan + 850 Tiên Ngọc + 120 Kim Cang Xá Lợi + 20 Thái Cổ Huyết
+- 5→6 Sao: 370 Cổ Ma Đan + 1300 Tiên Ngọc + 180 Kim Cang Xá Lợi + 35 Thái Cổ Huyết
+- 6→7 Sao: 520 Cổ Ma Đan + 2000 Tiên Ngọc + 260 Kim Cang Xá Lợi + 55 Thái Cổ Huyết + 5 Cổ Tôn Linh Đan
+- 7→8 Sao: 730 Cổ Ma Đan + 3000 Tiên Ngọc + 370 Kim Cang Xá Lợi + 85 Thái Cổ Huyết + 10 Cổ Tôn Linh Đan
+- 8→9 Sao: 1000 Cổ Ma Đan + 4500 Tiên Ngọc + 530 Kim Cang Xá Lợi + 130 Thái Cổ Huyết + 18 Cổ Tôn Linh Đan
+
+**Công Pháp Cổ Ma:**
+1. **Bát Hoang Lục Hợp Công** (1 Sao+): +120% STR, sóng xung kích AOE
+2. **Hỗn Độn Bất Diệt Thể** (4 Sao+): +180% HP, hồi 5% HP khi kill
+3. **Thiên Địa Bá Thể** (7 Sao+): +250% Physical Dmg, 15s bất tử mode
+
+**Đột phá Cổ Ma 9 Sao → Cổ Tôn 1 Sao:**
+- Yêu cầu: Cổ Ma 9 Sao
+- Tài nguyên: 2000 Cổ Ma Đan + 8000 Tiên Ngọc + 1000 Kim Cang Xá Lợi + 300 Thái Cổ Huyết + 50 Cổ Tôn Linh Đan + 100 Cổ Tôn Thần Cách
+- Thiên Kiếp: Boss "Cổ Tôn Trời Phạt" (cực kỳ khó)
+- Thành công: Thành Cổ Tôn, sức mạnh phi phàm
+
+---
+
+### **CẢNH 3: CỔ TÔN (古尊) - 1-9 Sao ⭐**
+
+**Đặc điểm:**
+- Đỉnh cao tu thể
+- Có thể biến hình toàn thân thành Cổ Thần
+- Bất khả chiến bại trong tầm gần
+
+**Chỉ số tăng theo sao:**
+- **1 Sao**: Base Stats × 180.0 | HP: 144000 | Physical Dmg: 14400 | Defense: 10800
+- **2 Sao**: Base Stats × 235.0 | HP: 188000 | Physical Dmg: 18800 | Defense: 14100
+- **3 Sao**: Base Stats × 305.0 | HP: 244000 | Physical Dmg: 24400 | Defense: 18300
+- **4 Sao**: Base Stats × 395.0 | HP: 316000 | Physical Dmg: 31600 | Defense: 23700
+- **5 Sao**: Base Stats × 510.0 | HP: 408000 | Physical Dmg: 40800 | Defense: 30600
+- **6 Sao**: Base Stats × 660.0 | HP: 528000 | Physical Dmg: 52800 | Defense: 39600
+- **7 Sao**: Base Stats × 850.0 | HP: 680000 | Physical Dmg: 68000 | Defense: 51000
+- **8 Sao**: Base Stats × 1100.0 | HP: 880000 | Physical Dmg: 88000 | Defense: 66000
+- **9 Sao**: Base Stats × 1400.0 | HP: 1120000 | Physical Dmg: 112000 | Defense: 84000
+
+**Đan Dược để nâng sao:**
+- 1→2 Sao: 150 Cổ Tôn Linh Đan + 6000 Tiên Ngọc + 100 Cổ Tôn Thần Cách
+- 2→3 Sao: 220 Cổ Tôn Linh Đan + 10000 Tiên Ngọc + 160 Cổ Tôn Thần Cách
+- 3→4 Sao: 320 Cổ Tôn Linh Đan + 16000 Tiên Ngọc + 250 Cổ Tôn Thần Cách + 15 Thái Cổ Linh Đan
+- 4→5 Sao: 450 Cổ Tôn Linh Đan + 25000 Tiên Ngọc + 380 Cổ Tôn Thần Cách + 25 Thái Cổ Linh Đan
+- 5→6 Sao: 630 Cổ Tôn Linh Đan + 38000 Tiên Ngọc + 550 Cổ Tôn Thần Cách + 40 Thái Cổ Linh Đan
+- 6→7 Sao: 880 Cổ Tôn Linh Đan + 55000 Tiên Ngọc + 780 Cổ Tôn Thần Cách + 65 Thái Cổ Linh Đan + 10 Chí Tôn Linh Dược
+- 7→8 Sao: 1200 Cổ Tôn Linh Đan + 80000 Tiên Ngọc + 1100 Cổ Tôn Thần Cách + 100 Thái Cổ Linh Đan + 18 Chí Tôn Linh Dược
+- 8→9 Sao: 1600 Cổ Tôn Linh Đan + 120000 Tiên Ngọc + 1500 Cổ Tôn Thần Cách + 150 Thái Cổ Linh Đan + 30 Chí Tôn Linh Dược
+
+**Công Pháp Cổ Tôn:**
+1. **Bàn Cổ Chân Thân** (1 Sao+): Biến thành khổng lồ, +400% stats
+2. **Cổ Thần Chi Lực** (4 Sao+): Triệu hồi Cổ Thần Hư Ảnh
+3. **Vạn Cổ Chí Tôn** (7 Sao+): Thành Cổ Thần tối cường, +2000% stats
+
+---
+
+## 🩸 HỆ MA ĐẠO (魔道) - Tu Hồn Phiên & Linh Hồn
+
+### **CẢNH 1: MA ĐẠO (魔道) - 1-9 Tinh ✦**
+
+**Đặc điểm:**
+- Dùng Hồn Phiên (魂幡 - Cờ Ma) chứa linh hồn
+- Tấn công linh hồn trực tiếp, bỏ qua phòng thủ vật lý
+- Càng giết nhiều, Hồn Phiên càng mạnh
+- Bị NPC chính phái săn lùng
+
+**Chỉ số tăng theo tinh:**
+- **1 Tinh ✦**: Base Stats × 1.0 | HP: 550 | Soul Dmg: 75 | Hồn Phiên: 10 linh hồn
+- **2 Tinh ✦✦**: Base Stats × 1.25 | HP: 690 | Soul Dmg: 94 | Hồn Phiên: 25 linh hồn
+- **3 Tinh ✦✦✦**: Base Stats × 1.5 | HP: 825 | Soul Dmg: 113 | Hồn Phiên: 50 linh hồn
+- **4 Tinh**: Base Stats × 1.8 | HP: 990 | Soul Dmg: 135 | Hồn Phiên: 100 linh hồn
+- **5 Tinh**: Base Stats × 2.2 | HP: 1210 | Soul Dmg: 165 | Hồn Phiên: 200 linh hồn
+- **6 Tinh**: Base Stats × 2.7 | HP: 1485 | Soul Dmg: 203 | Hồn Phiên: 400 linh hồn
+- **7 Tinh**: Base Stats × 3.3 | HP: 1815 | Soul Dmg: 248 | Hồn Phiên: 700 linh hồn
+- **8 Tinh**: Base Stats × 4.1 | HP: 2255 | Soul Dmg: 308 | Hồn Phiên: 1,200 linh hồn
+- **9 Tinh**: Base Stats × 5.0 | HP: 2750 | Soul Dmg: 375 | Hồn Phiên: 2,000 linh hồn
+
+**Đan Dược & Tài nguyên để nâng tinh:**
+- 1→2 Tinh: 12 Ma Đạo Đan + 10 Phàm Nhân Linh Hồn
+- 2→3 Tinh: 28 Ma Đạo Đan + 25 Phàm Nhân Linh Hồn
+- 3→4 Tinh: 55 Ma Đạo Đan + 50 Phàm Nhân Linh Hồn + 5 Tu Sĩ Linh Hồn
+- 4→5 Tinh: 90 Ma Đạo Đan + 100 Phàm Nhân Linh Hồn + 15 Tu Sĩ Linh Hồn
+- 5→6 Tinh: 140 Ma Đạo Đan + 200 Phàm Nhân Linh Hồn + 30 Tu Sĩ Linh Hồn
+- 6→7 Tinh: 200 Ma Đạo Đan + 400 Phàm Nhân Linh Hồn + 50 Tu Sĩ Linh Hồn + 1 Hồn Phiên (Hạ Phẩm)
+- 7→8 Tinh: 290 Ma Đạo Đan + 700 Phàm Nhân Linh Hồn + 80 Tu Sĩ Linh Hồn + 5 Yêu Thú Linh Hồn
+- 8→9 Tinh: 400 Ma Đạo Đan + 1200 Phàm Nhân Linh Hồn + 120 Tu Sĩ Linh Hồn + 15 Yêu Thú Linh Hồn
+
+**Công Pháp Ma Đạo:**
+1. **Hồn Phiên Sơ Thức** (1 Tinh+): Triệu hồi 10 oan hồn từ Hồn Phiên tấn công
+   - +35% Soul Dmg
+   - Mỗi lần giết địch, hút linh hồn vào Hồn Phiên (+1 linh hồn)
+   - Skill: "Oan Hồn Tập Kích" - 10 oan hồn xông lên cào xé
+
+2. **Phách Tán Linh Kiếm** (4 Tinh+): Tấn công linh hồn trực tiếp
+   - +60% Soul Dmg, bỏ qua 30% Defense
+   - Skill: "Linh Hồn Trảm" - Kiếm khí vô hình chém linh hồn
+   - Gây hiệu ứng "Phách Loạn" - Giảm 40% Accuracy 5s
+
+3. **Vạn Hồn Tông Sư Pháp** (7 Tinh+): Thống lĩnh muôn vàn linh hồn
+   - +85% Soul Dmg
+   - Skill: "Vạn Hồn Phiên Động" - Phóng thích toàn bộ linh hồn trong Hồn Phiên
+   - Damage = Số linh hồn × 10
+   - Sau khi dùng: Hồn Phiên trống rỗng, phải tích lũy lại
+
+**Đột phá Ma Đạo 9 Tinh → Ma Tôn 1 Tinh:**
+- Yêu cầu: Ma Đạo 9 Tinh (Đại Viên Mãn)
+- Tài nguyên: 700 Ma Đạo Đan + 1500 Yêu Thú Tinh Huyết + 300 Ma Khí Tinh Thể + 80 Âm Hồn Châu + 40 Ma Tâm Kết Tinh + 120 Tiên Ngọc
+- Thiên Kiếp: Boss "Ma Tâm Nội Ma" (fight với chính bản thân mình)
+- Thành công: Ma Tính tăng vọt, chỉ số nhân đôi, unlock Ma Vực
+
+---
+
+### **CẢNH 2: MA TÔN (魔尊) - 1-9 Tinh ✦**
+
+**Đặc điểm:**
+- Thành Ma Tôn, thống lĩnh ma đạo
+- Có thể tạo Ma Vực riêng
+- Hút sinh lực trong phạm vi rộng
+
+**Chỉ số tăng theo tinh:**
+- **1 Tinh**: Base Stats × 10.0 | HP: 6000 | Dark Dmg: 700 | Lifesteal: 60%
+- **2 Tinh**: Base Stats × 13.0 | HP: 7800 | Dark Dmg: 910 | Lifesteal: 65%
+- **3 Tinh**: Base Stats × 17.0 | HP: 10200 | Dark Dmg: 1190 | Lifesteal: 70%
+- **4 Tinh**: Base Stats × 22.0 | HP: 13200 | Dark Dmg: 1540 | Lifesteal: 75%
+- **5 Tinh**: Base Stats × 28.5 | HP: 17100 | Dark Dmg: 1995 | Lifesteal: 80%
+- **6 Tinh**: Base Stats × 37.0 | HP: 22200 | Dark Dmg: 2590 | Lifesteal: 85%
+- **7 Tinh**: Base Stats × 48.0 | HP: 28800 | Dark Dmg: 3360 | Lifesteal: 90%
+- **8 Tinh**: Base Stats × 62.0 | HP: 37200 | Dark Dmg: 4340 | Lifesteal: 95%
+- **9 Tinh**: Base Stats × 80.0 | HP: 48000 | Dark Dmg: 5600 | Lifesteal: 100%
+
+**Đan Dược để nâng tinh:**
+- 1→2 Tinh: 70 Ma Tôn Đan + 180 Tiên Ngọc + 25 Ma Tâm Kết Tinh
+- 2→3 Tinh: 110 Ma Tôn Đan + 320 Tiên Ngọc + 42 Ma Tâm Kết Tinh
+- 3→4 Tinh: 160 Ma Tôn Đan + 520 Tiên Ngọc + 65 Ma Tâm Kết Tinh + 8 Địa Ngục Hỏa Chủng
+- 4→5 Tinh: 240 Ma Tôn Đan + 800 Tiên Ngọc + 100 Ma Tâm Kết Tinh + 15 Địa Ngục Hỏa Chủng
+- 5→6 Tinh: 340 Ma Tôn Đan + 1250 Tiên Ngọc + 150 Ma Tâm Kết Tinh + 25 Địa Ngục Hỏa Chủng
+- 6→7 Tinh: 480 Ma Tôn Đan + 1900 Tiên Ngọc + 220 Ma Tâm Kết Tinh + 40 Địa Ngục Hỏa Chủng + 4 Ma Hoàng Tinh Túy
+- 7→8 Tinh: 670 Ma Tôn Đan + 2800 Tiên Ngọc + 320 Ma Tâm Kết Tinh + 60 Địa Ngục Hỏa Chủng + 8 Ma Hoàng Tinh Túy
+- 8→9 Tinh: 920 Ma Tôn Đan + 4200 Tiên Ngọc + 460 Ma Tâm Kết Tinh + 90 Địa Ngục Hỏa Chủng + 14 Ma Hoàng Tinh Túy
+
+**Công Pháp Ma Tôn:**
+1. **Thiên Ma Giải Thể** (1 Tinh+): Hy sinh 30% HP, +200% damage 20s
+2. **Vạn Quỷ Phệ Hồn** (4 Tinh+): Triệu hồi 10000 oan hồn
+3. **Vô Gian Ma Vực** (7 Tinh+): Tạo Ma Vực 80m, địch -70% stats
+
+**Đột phá Ma Tôn 9 Tinh → Ma Hoàng 1 Tinh:**
+- Yêu cầu: Ma Tôn 9 Tinh
+- Tài nguyên: 1800 Ma Tôn Đan + 7500 Tiên Ngọc + 800 Ma Tâm Kết Tinh + 250 Địa Ngục Hỏa Chủng + 40 Ma Hoàng Tinh Túy + 80 Ma Hoàng Thần Cách
+- Thiên Kiếp: Boss "Ma Hoàng Tâm Ma" (cực kỳ khó, boss có lifesteal)
+- Thành công: Thành Ma Hoàng, áp chế mọi Ma Tu
+
+---
+
+### **CẢNH 3: MA HOÀNG (魔皇) - 1-9 Tinh ✦**
+
+**Đặc điểm:**
+- Đỉnh cao Ma Đạo
+- Có thể nuốt linh hồn tăng sức mạnh vĩnh viễn
+- Lifesteal cực cao, gần như bất tử
+
+**Chỉ số tăng theo tinh:**
+- **1 Tinh**: Base Stats × 160.0 | HP: 96000 | Dark Dmg: 11200 | Lifesteal: 110%
+- **2 Tinh**: Base Stats × 210.0 | HP: 126000 | Dark Dmg: 14700 | Lifesteal: 115%
+- **3 Tinh**: Base Stats × 275.0 | HP: 165000 | Dark Dmg: 19250 | Lifesteal: 120%
+- **4 Tinh**: Base Stats × 360.0 | HP: 216000 | Dark Dmg: 25200 | Lifesteal: 125%
+- **5 Tinh**: Base Stats × 470.0 | HP: 282000 | Dark Dmg: 32900 | Lifesteal: 130%
+- **6 Tinh**: Base Stats × 610.0 | HP: 366000 | Dark Dmg: 42700 | Lifesteal: 135%
+- **7 Tinh**: Base Stats × 790.0 | HP: 474000 | Dark Dmg: 55300 | Lifesteal: 140%
+- **8 Tinh**: Base Stats × 1020.0 | HP: 612000 | Dark Dmg: 71400 | Lifesteal: 145%
+- **9 Tinh**: Base Stats × 1300.0 | HP: 780000 | Dark Dmg: 91000 | Lifesteal: 150%
+
+**Đan Dược để nâng tinh:**
+- 1→2 Tinh: 140 Ma Hoàng Linh Đan + 5500 Tiên Ngọc + 85 Ma Hoàng Thần Cách
+- 2→3 Tinh: 200 Ma Hoàng Linh Đan + 9500 Tiên Ngọc + 135 Ma Hoàng Thần Cách
+- 3→4 Tinh: 290 Ma Hoàng Linh Đan + 15000 Tiên Ngọc + 210 Ma Hoàng Thần Cách + 12 Thái Cổ Linh Đan
+- 4→5 Tinh: 410 Ma Hoàng Linh Đan + 23000 Tiên Ngọc + 320 Ma Hoàng Thần Cách + 22 Thái Cổ Linh Đan
+- 5→6 Tinh: 580 Ma Hoàng Linh Đan + 35000 Tiên Ngọc + 470 Ma Hoàng Thần Cách + 35 Thái Cổ Linh Đan
+- 6→7 Tinh: 810 Ma Hoàng Linh Đan + 52000 Tiên Ngọc + 680 Ma Hoàng Thần Cách + 55 Thái Cổ Linh Đan + 8 Ma Tổ Linh Dược
+- 7→8 Tinh: 1100 Ma Hoàng Linh Đan + 75000 Tiên Ngọc + 950 Ma Hoàng Thần Cách + 85 Thái Cổ Linh Đan + 15 Ma Tổ Linh Dược
+- 8→9 Tinh: 1500 Ma Hoàng Linh Đan + 110000 Tiên Ngọc + 1300 Ma Hoàng Thần Cách + 130 Thái Cổ Linh Đan + 25 Ma Tổ Linh Dược
+
+**Công Pháp Ma Hoàng:**
+1. **Ma Thần Biến Hóa** (1 Tinh+): Biến thành Ma Thần, +500% stats
+2. **Thị Hồn Ma Công** (4 Tinh+): Mỗi kill +1% stats (vĩnh viễn)
+3. **Vạn Ma Chi Tổ** (7 Tinh+): Triệu hồi Vạn Ma Đại Quân, +2500% stats
+
+---
+
+## 📊 BẢNG SO SÁNH 3 HỆ
+
+### **Ở Cảnh Giới Tầng/Sao/Tinh 9 (Đỉnh Cảnh 1)**
+
+| Hệ | HP | Damage | Defense | Đặc Biệt |
+|----|-------|---------|---------|----------|
+| **Tiên Thiên** (Ngưng Khí 9) | 2,000 | 200 Magic | 50 | Đa dạng skill |
+| **Cổ Thần** (6 Sao) | 4,800 | 480 Physical | 360 | HP & Defense cao |
+| **Ma Đạo** (9 Tinh) | 3,000 | 350 Dark | 80 | Lifesteal 50% |
+
+### **Ở Cảnh Giới Cảnh 3 Tầng/Sao/Tinh 9 (Đỉnh Cao Nhất)**
+
+| Hệ | HP | Damage | Đặc Biệt |
+|----|-------|---------|----------|
+| **Tiên Thiên** (Nguyên Anh 9) | 300,000 | 30,000 Magic | Skill đa dạng, kiểm soát |
+| **Cổ Thần** (Cổ Tôn 9 Sao) | 1,120,000 | 112,000 Physical | HP khủng khiếp |
+| **Ma Đạo** (Ma Hoàng 9 Tinh) | 780,000 | 91,000 Dark | Lifesteal 150% |
+
+---
+
+## 🎮 CƠ CHẾ GAMEPLAY
+
+### **CÁCH LÊN CẢNH GIỚI**
+
+**Không có cấp độ (Level) truyền thống!**
+
+Thay vào đó:
+1. **Ngồi thiền tu luyện** tại Đài Luyện Công (AFK farming)
+   - Mỗi phút tu luyện: +1 Tu Vi Điểm
+   - Cần đủ Tu Vi Điểm + Đan Dược → Nâng tầng/sao/tinh
+
+2. **Đánh quái/boss** để lấy Đan Dược
+   - Boss rơi Đan Dược chất lượng cao
+   - Quái thường rơi nguyên liệu làm đan
+
+3. **Hoàn thành Quest** để lấy Tiên Ngọc
+   - Quest hàng ngày: +50-200 Tiên Ngọc
+   - Quest cốt truyện: +500-5000 Tiên Ngọc
+
+4. **PvP/Arena** để lấy thêm tài nguyên
+   - Thắng 1 trận: +100 Tiên Ngọc + random đan dược
+
+### **TU VI ĐIỂM YÊU CẦU**
+
+**Mỗi lần nâng tầng/sao/tinh cần:**
+- Tầng/Sao/Tinh 1→2: 1,000 Tu Vi Điểm
+- Tầng/Sao/Tinh 2→3: 2,500 Tu Vi Điểm
+- Tầng/Sao/Tinh 3→4: 5,000 Tu Vi Điểm
+- Tầng/Sao/Tinh 4→5: 8,000 Tu Vi Điểm
+- Tầng/Sao/Tinh 5→6: 12,000 Tu Vi Điểm
+- Tầng/Sao/Tinh 6→7: 18,000 Tu Vi Điểm
+- Tầng/Sao/Tinh 7→8: 25,000 Tu Vi Điểm
+- Tầng/Sao/Tinh 8→9: 35,000 Tu Vi Điểm
+
+**Đột phá cảnh giới lớn:**
+- Cảnh 1 → Cảnh 2: 100,000 Tu Vi Điểm
+- Cảnh 2 → Cảnh 3: 500,000 Tu Vi Điểm
+
+### **HỆ THỐNG ĐỘT PHÁ**
+
+Khi đủ điều kiện đột phá:
+1. **Chuẩn bị tài nguyên** (đủ đan dược + tiên ngọc)
+2. **Vào Đột Phá Không Gian** (riêng phòng)
+3. **Chiến đấu với Thiên Kiếp Boss**:
+   - Tiên Thiên: Boss dùng pháp thuật
+   - Cổ Thần: Boss melee cực mạnh
+   - Ma Đạo: Boss có lifesteal như mình
+4. **Thắng**: Đột phá thành công, chỉ số nhân đôi
+5. **Thua**: Mất 50% tài nguyên, phải thử lại
+
+### **HỆ THỐNG CÔNG PHÁP**
+
+**Mỗi công pháp có 10 cấp độ:**
+- Cấp 1-10: Mỗi cấp tăng 10% hiệu quả
+- Cần Tu Vi Điểm + ngồi thiền luyện công để nâng cấp
+- Công pháp cao cấp cần cảnh giới cao mới học được
+
+**Ví dụ:**
+- **Ngũ Hành Quyết** cấp 1: +30% Magic Dmg
+- **Ngũ Hành Quyết** cấp 10: +120% Magic Dmg
+
+### **HỆ THỐNG TƯƠNG KHẮC**
+
+**Rock-Paper-Scissors:**
+- Cổ Thần > Ma Đạo (30% bonus damage)
+- Ma Đạo > Tiên Thiên (30% bonus damage)
+- Tiên Thiên > Cổ Thần (30% bonus damage)
+
+**Lý do:**
+- Cổ Thần có HP cao → counter lifesteal của Ma Đạo
+- Ma Đạo có lifesteal → counter poke damage của Tiên Thiên
+- Tiên Thiên có kiểm soát → kite được Cổ Thần cận chiến
+
+---
+
+## 💊 DANH SÁCH ĐAN DƯỢC
+
+### **Đan Dược Cơ Bản**
+1. **Tụ Khí Đan** (聚气丹): Tu luyện Ngưng Khí
+   - Drop từ: Quái cấp thấp, Quest tân thủ
+   
+2. **Trúc Cơ Đan** (筑基丹): Tu luyện Trúc Cơ
+   - Drop từ: Boss Trúc Cơ, Quest trung cấp
+   
+3. **Kim Đan** (金丹): Tu luyện Nguyên Anh
+   - Drop từ: Boss Nguyên Anh, Quest cao cấp
+
+### **Đan Dược Cổ Thần**
+1. **Thể Tu Đan** (体修丹): Tu luyện thể chất Cổ Thần
+2. **Cổ Ma Đan** (古魔丹): Tu luyện Cổ Ma
+3. **Cổ Tôn Linh Đan** (古尊灵丹): Tu luyện Cổ Tôn
+
+### **Đan Dược Ma Đạo**
+1. **Ma Đạo Đan** (魔道丹): Tu luyện Ma Đạo
+2. **Ma Tôn Đan** (魔尊丹): Tu luyện Ma Tôn
+3. **Ma Hoàng Linh Đan** (魔皇灵丹): Tu luyện Ma Hoàng
+
+### **Hồn Phiên (魂幡) - Vũ Khí Ma Đạo**
+
+**Phân Cấp Hồn Phiên:**
+1. **Hồn Phiên Hạ Phẩm**: Chứa max 5,000 linh hồn
+2. **Hồn Phiên Trung Phẩm**: Chứa max 50,000 linh hồn
+3. **Vạn Hồn Phan Hạ Phẩm**: Chứa max 500,000 linh hồn
+4. **Vạn Hồn Phan Thượng Phẩm**: Chứa max 5,000,000 linh hồn
+5. **Diệt Thế Ma Phan**: Chứa max 100,000,000 linh hồn
+
+**Cách Nâng Cấp Hồn Phiên:**
+- Cho Hồn Phiên "ăn" Boss Linh Hồn + Tiên Ngọc
+- Mỗi lần nâng cấp: Tăng sức chứa và damage của skill
+
+### **Đan Dược Cao Cấp (Chung)**
+1. **Tiểu Hoàn Đan** (小还丹): Tăng tốc tu luyện +50%
+2. **Đại Hoàn Đan** (大还丹): Tăng tốc tu luyện +100%
+3. **Thiên Linh Đan** (天灵丹): Tăng cơ hội đột phá +20%
+4. **Tiên Linh Đan** (仙灵丹): Tăng cơ hội đột phá +50%
+5. **Thái Cổ Linh Đan** (太古灵丹): Top tier, cực hiếm
+
+### **Nguyên Liệu Đặc Biệt**
+1. **Tiên Ngọc** (仙玉): Currency cao cấp
+2. **Vạn Niên Linh Dược** (万年灵药): Dược liệu 10,000 năm
+3. **Kim Cang Xá Lợi** (金刚舍利): Cổ Thần đặc hữu
+4. **Phàm Nhân Linh Hồn** (凡人灵魂): Ma Đạo đặc hữu - drop từ NPC thường
+5. **Tu Sĩ Linh Hồn** (修士灵魂): Ma Đạo đặc hữu - drop từ tu sĩ
+6. **Cao Thủ Linh Hồn** (高手灵魂): Ma Đạo đặc hữu - drop từ cao thủ
+7. **Boss Linh Hồn** (Boss灵魂): Ma Đạo đặc hữu - drop từ boss
+8. **Tiên Nhân Linh Hồn** (仙人灵魂): Ma Đạo đặc hữu - cực hiếm
+9. **Cổ Thần Huyết** (古神血): Máu Cổ Thần
+10. **Thú Cốt** (兽骨): Xương yêu thú
+
+---
+
+## 🎯 VÍ DỤ PROGRESSION
+
+### **Người Chơi Tiên Thiên - 100 giờ chơi:**
+
+**Ngày 1-7:**
+- Ngưng Khí Tầng 1 → Tầng 5
+- HP: 500 → 1000
+- Magic Dmg: 50 → 100
+- Học công pháp: Ngũ Hành Quyết
+
+**Ngày 8-30:**
+- Ngưng Khí Tầng 5 → Tầng 9
+- HP: 1000 → 2000
+- Magic Dmg: 100 → 200
+- Chuẩn bị đột phá Trúc Cơ
+
+**Ngày 31:**
+- **ĐỘT PHÁ TRÚC CƠ**
+- Đánh boss Trúc Cơ Lôi Kiếp
+- HP nhảy: 2000 → 4000
+- Magic Dmg: 200 → 400
+- Unlock: Bay được!
+
+**Ngày 32-90:**
+- Trúc Cơ Tầng 1 → Tầng 9
+- HP: 4000 → 21,500
+- Magic Dmg: 400 → 2,150
+- Học Vạn Kiếm Quy Tông
+
+**Ngày 91-365:**
+- Đột phá Nguyên Anh
+- Trở thành cao thủ server
+- HP: 43,000 → 300,000
+- Magic Dmg: 4,300 → 30,000
+
+---
+
+## 💡 TIPS THIẾT KẾ CODE
+
+```lua
+PlayerData = {
+    -- Hệ Tu Luyện
+    CultivationType = "TienThien", -- "TienThien", "CoThan", "MaDao"
+    
+    -- Cảnh Giới
+    Realm1 = {
+        Name = "NgungKhi", -- hoặc "CoThan", "MaDao"
+        Level = 5, -- Tầng 5 / 5 Sao / 5 Tinh
+        TuViPoints = 12000
+    },
+    
+    Realm2 = {
+        Name = "TrucCo",
+        Level = 0, -- Chưa đột phá
+        Locked = true
+    },
+    
+    Realm3 = {
+        Name = "NguyenAnh",
+        Level = 0,
+        Locked = true
+    },
+    
+    -- Stats (tự động tính từ Realm)
+    BaseStats = {
+        HP = 1000,
+        MP = 1200,
+        MagicDamage = 100,
+        -- etc
+    },
+    
+    -- Inventory
+    DanDuoc = {
+        TuKhiDan = 150,
+        TieuHoanDan = 20,
+        TienNgoc = 500
+    },
+    
+    -- Công Pháp đã học
+    Skills = {
+        {Name = "NguHanhQuyet", Level = 7},
+        {Name = "ThanhVanKiem", Level = 3}
+    }
+}
+```
+
+---
+
+Đây là hệ thống hoàn chỉnh! Bạn muốn tôi code implement cho Roblox không?

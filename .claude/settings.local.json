@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p src/ReplicatedStorage/Modules/PlayerData src/ReplicatedStorage/Modules/Stats src/ReplicatedStorage/Modules/Combat src/ReplicatedStorage/Modules/UI src/ReplicatedStorage/Data src/ServerScriptService/Services src/Workspace/Maps)",
+      "Bash(tree -L 3 \"d:\\Roblox\\Game\\FINAL_BUILD\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

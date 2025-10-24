@@ -1,0 +1,239 @@
+[Cổng Tiên Thiên] 🔵
+                           |
+                    [Khu Tiên Thiên]
+                           |
+                           |
+[Cổng Cổ Thần] 🟡 ---- [TRUNG TÂM] ---- [Cổng Ma Đạo] 🔴
+                      PHONG THẦN BẢNG
+                           |
+                    [Khu chợ/NPC]
+                           |
+                    [Làng nhỏ trang trí]
+```
+
+---
+
+## 🏛️ TRUNG TÂM: PHONG THẦN BẢNG
+
+### **Kiến trúc chính:**
+- **Cột đá khổng lồ** (20x80x20 studs)
+  - Màu xám đá cổ
+  - Khắc rồng + chữ Hán
+  - Phát sáng vàng gold
+  - Có particle vàng bay quanh
+
+### **SurfaceGui - Bảng Xếp Hạng:**
+```
+╔════════════════════════════╗
+║   🏆 PHONG THẦN BẢNG 🏆    ║
+║════════════════════════════║
+║  #1  [Tiên] 無名劍仙  Lv99 ║
+║  #2  [Cổ]  鐵拳王    Lv95  ║
+║  #3  [Ma]  血魔君    Lv92  ║
+║  ...                       ║
+╚════════════════════════════╝
+```
+
+### **Khu vực xung quanh cột:**
+- Sân đá tròn (100 studs bán kính)
+- 8 cột nhỏ xung quanh có đèn lồng
+- Lư hương 4 góc (hướng Đông Tây Nam Bắc)
+- Spawn point ngay trước cột
+
+---
+
+## 🚪 3 CỔNG TRƯỜNG PHÁI
+
+### **🔵 CỔNG TIÊN THIÊN (Phía BẮC)**
+
+**Design:**
+- Cổng Torii lớn màu **xanh dương nhạt**
+- 2 cột trụ khắc **mây vân**
+- Biển gỗ treo: "**仙天門**" (Tiên Thiên Môn)
+- Particle: **Ánh sáng xanh lam** bay lên
+- Sàn teleport: **Viền xanh phát sáng**, họa tiết bát quái
+
+**Khu vực xung quanh:**
+- Ao sen + cầu đá cong
+- Hoa anh đào (cherry blossom trees)
+- Tảng đá có thác nước nhỏ
+- Tượng sư tử đá 2 bên cổng
+
+**NPC:**
+- **"Trưởng Lão Tiên Thiên"** đứng trước cổng
+- Áo xanh nhạt, râu dài, tay cầm phất trần
+- Bubble chat: *"Tiên đạo tu hành, thanh tịnh vô vi..."*
+
+---
+
+### **🟡 CỔNG CỔ THẦN (Phía TÂY)**
+
+**Design:**
+- Cổng đá to lớn màu **vàng nâu**
+- 2 cột khắc **hổ + rồng**
+- Biển đá khắc: "**古神殿**" (Cổ Thần Điện)
+- Particle: **Khói vàng** mạnh mẽ
+- Sàn teleport: **Hoa văn Kim Cang**, sáng vàng
+
+**Khu vực xung quanh:**
+- Tượng Kim Cang lớn (vajra statue)
+- Đá tảng lớn, sức mạnh
+- Cây cổ thụ to
+- 2 tượng chiến binh đá 2 bên
+
+**NPC:**
+- **"Cổ Thần Trưởng Lão"** đứng trước cổng
+- Cơ bắp khổng lồ, áo nâu, tay không
+- Bubble chat: *"Tu thể thành Thần, bất diệt kim thân!"*
+
+---
+
+### **🔴 CỔNG MA ĐẠO (Phía ĐÔNG)**
+
+**Design:**
+- Cổng đen tối màu **đỏ thẫm + đen**
+- 2 cột khắc **đầu lâu + Hồn Phiên**
+- Biển gỗ cũ: "**魔道窟**" (Ma Đạo Quật)
+- Particle: **Khói đen + tia đỏ** rợn người
+- Sàn teleport: **Ma trận**, sáng đỏ máu
+
+**Khu vực xung quanh:**
+- Đất khô cằn, nứt nẻ
+- Xương người nằm rải rác
+- Cây khô, không lá
+- 2 Hồn Phiên cắm 2 bên cổng
+
+**NPC:**
+- **"Ma Đạo Tôn Giả"** đứng trước cổng
+- Áo đen, mặt nạ đỏ, mắt phát sáng
+- Bubble chat: *"Ma đạo vạn tuế, hút hồn thành ma!"*
+
+---
+
+## 🏘️ KHU PHỤ (Optional - Decoration)
+
+### **Phía NAM: Làng nhỏ + Chợ**
+
+**Tiệm thuốc:**
+- Nhà gỗ nhỏ
+- Biển: "藥舖" (Dược Phố)
+- NPC bán đan dược cơ bản
+
+**Tiệm rèn:**
+- Lò đất, búa sắt
+- Biển: "鐵匠鋪" (Thiết Tượng Phố)
+- NPC bán vũ khí Lv1
+
+**Quán ăn:**
+- Bàn ghế gỗ
+- Đèn lồng đỏ
+- NPC decoration
+
+**Giếng làng:**
+- Giếng đá tròn ở giữa
+- Người làng đi lại
+
+---
+
+## 🎨 VISUAL DETAILS
+
+### **Lighting:**
+- **Ambient:** Vàng ấm (sáng ban ngày)
+- **ColorShift_Top:** Xanh nhạt (trời)
+- **OutdoorAmbient:** Vàng cam (ánh sáng mặt trời)
+- **Brightness:** 2-3
+
+### **Skybox:**
+- Trời xanh, mây trắng
+- Núi xa xa ở chân trời
+- Mặt trời lớn (optional)
+
+### **Particles:**
+- Phong Thần Bảng: Sparkles vàng
+- Cổng Tiên Thiên: Fire (màu xanh)
+- Cổng Cổ Thần: Smoke (màu vàng)
+- Cổng Ma Đạo: Smoke (màu đen) + Fire (màu đỏ)
+
+### **Sounds:**
+- Background: Nhạc guzheng/dizi (nhạc cổ Trung Hoa)
+- Phong Thần Bảng: Tiếng chuông nhẹ
+- Gần cổng: Tiếng gió
+
+---
+
+## 💻 CẤU TRÚC FOLDER (Workspace)
+```
+Workspace
+├── TanThuVillage (Folder)
+│   ├── Center (Folder)
+│   │   ├── PhongThanBang (Model)
+│   │   │   ├── MainPillar (Part - cột chính)
+│   │   │   ├── SurfaceGui (Billboard - Bảng XH)
+│   │   │   ├── SparkleEffect (ParticleEmitter)
+│   │   │   └── Light (PointLight)
+│   │   ├── Platform (Part - sàn tròn)
+│   │   ├── SmallPillars (Model - 8 cột nhỏ)
+│   │   └── Incense (Model - lư hương)
+│   │
+│   ├── TienThienGate (Folder)
+│   │   ├── Gate (Model)
+│   │   ├── TeleportPad (Part - Sàn tele)
+│   │   ├── NPC_TienThien (Model)
+│   │   └── Decorations (Folder)
+│   │
+│   ├── CoThanGate (Folder)
+│   │   ├── Gate (Model)
+│   │   ├── TeleportPad (Part)
+│   │   ├── NPC_CoThan (Model)
+│   │   └── Decorations (Folder)
+│   │
+│   ├── MaDaoGate (Folder)
+│   │   ├── Gate (Model)
+│   │   ├── TeleportPad (Part)
+│   │   ├── NPC_MaDao (Model)
+│   │   └── Decorations (Folder)
+│   │
+│   └── Village (Folder - Optional)
+│       ├── Houses (Folder)
+│       ├── Shops (Folder)
+│       └── NPCs (Folder)
+
+
+
+
+🎯 FLOW PLAYER KHI VÀO GAME
+
+Spawn tại Phong Thần Bảng (trung tâm)
+Nhìn thấy GUI hướng dẫn: "Chọn trường phái của bạn!"
+Đi đến 1 trong 3 cổng
+Nói chuyện với NPC (optional - lore)
+Đứng lên TeleportPad → Chọn phái
+Teleport vào map tu luyện tương ứng
+
+
+🛠️ IMPLEMENTATION PLAN
+Phase 1: Build Trung Tâm (1-2 giờ)
+
+Terrain (phẳng, cỏ xanh)
+Phong Thần Bảng (cột + GUI)
+Sàn đá tròn + cột nhỏ
+Lighting + Skybox
+
+Phase 2: Build 3 Cổng (2-3 giờ)
+
+Mỗi cổng: Model cơ bản
+TeleportPad (Part với script)
+Particles + Lighting
+NPC (tạm thời dùng Dummy R15)
+
+Phase 3: Decorations (1-2 giờ)
+
+Thêm props (đèn lồng, cây, đá)
+Làng nhỏ (nếu cần)
+Polish lighting
+
+Phase 4: Script (30 phút - 1 giờ)
+
+Teleport system
+Faction selection GUI
+Save data (chọn phái)
