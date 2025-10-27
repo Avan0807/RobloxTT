@@ -1,0 +1,140 @@
+{
+  "name": "RobloxTT-Game",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "src/ReplicatedStorage",
+
+      "Modules": {
+        "$path": "src/ReplicatedStorage/Modules"
+      },
+
+      "Data": {
+        "$path": "src/ReplicatedStorage/Data"
+      },
+
+      "RemoteEvents": {
+        "$className": "Folder",
+
+        "LevelUp": {
+          "$className": "RemoteEvent"
+        },
+        "Breakthrough": {
+          "$className": "RemoteEvent"
+        },
+        "StartMeditation": {
+          "$className": "RemoteEvent"
+        },
+        "GetInventory": {
+          "$className": "RemoteEvent"
+        },
+        "SyncInventory": {
+          "$className": "RemoteEvent"
+        },
+        "UseItem": {
+          "$className": "RemoteEvent"
+        },
+        "ItemUsed": {
+          "$className": "RemoteEvent"
+        },
+        "SortInventory": {
+          "$className": "RemoteEvent"
+        },
+        "LootNotification": {
+          "$className": "RemoteEvent"
+        },
+        "GetEquipment": {
+          "$className": "RemoteEvent"
+        },
+        "SyncEquipment": {
+          "$className": "RemoteEvent"
+        },
+        "EquipItem": {
+          "$className": "RemoteEvent"
+        },
+        "UnequipItem": {
+          "$className": "RemoteEvent"
+        },
+        "EquipResponse": {
+          "$className": "RemoteEvent"
+        },
+        "GetShop": {
+          "$className": "RemoteEvent"
+        },
+        "SyncShop": {
+          "$className": "RemoteEvent"
+        },
+        "BuyItem": {
+          "$className": "RemoteEvent"
+        },
+        "SellItem": {
+          "$className": "RemoteEvent"
+        },
+        "ShopNotification": {
+          "$className": "RemoteEvent"
+        },
+        "GetQuests": {
+          "$className": "RemoteEvent"
+        },
+        "SyncQuests": {
+          "$className": "RemoteEvent"
+        },
+        "AcceptQuest": {
+          "$className": "RemoteEvent"
+        },
+        "AbandonQuest": {
+          "$className": "RemoteEvent"
+        },
+        "QuestNotification": {
+          "$className": "RemoteEvent"
+        },
+        "UseSkill": {
+          "$className": "RemoteEvent"
+        },
+        "SyncPlayerData": {
+          "$className": "RemoteEvent"
+        },
+        "PromptPurchase": {
+          "$className": "RemoteEvent"
+        },
+        "PromptGamePass": {
+          "$className": "RemoteEvent"
+        }
+      }
+    },
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+
+      "Services": {
+        "$path": "src/ServerScriptService/Services"
+      }
+    },
+
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+
+        "UI": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/UI"
+        }
+      }
+    },
+
+    "Workspace": {
+      "$className": "Workspace",
+      "$properties": {
+        "FilteringEnabled": true
+      },
+
+      "Maps": {
+        "$className": "Folder",
+        "$path": "src/Workspace/Maps"
+      }
+    }
+  }
+}

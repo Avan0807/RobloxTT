@@ -1,0 +1,37 @@
+# Roblox Studio Files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Rojo Build Output
+build/
+*.rbxlx.lock
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+*~
+
+# Old Build (không cần nữa sau khi migrate)
+FINAL_BUILD/
+FULL_SYSTEM/
+SKILLSHOT_SYSTEM/
+
+# Keep src/ and config files
+!src/
+!default.project.json
+!*.md
