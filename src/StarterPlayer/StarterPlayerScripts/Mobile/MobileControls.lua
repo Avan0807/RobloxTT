@@ -4,6 +4,7 @@
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local MobileControls = {}
 MobileControls.IsMobile = false
@@ -268,6 +269,34 @@ function MobileControls.CreateSkillButtons(parent)
 			CurrentCooldown = 0,
 			IsOnCooldown = false
 		}
+
+		-- Button click handler - Fire UseSkill event
+		button.MouseButton1Click:Connect(function()
+			if not buttonData.IsOnCooldown then
+				-- Fire skill to server
+				local remoteEvents = ReplicatedStorage:FindFirstChild("RemoteEvents")
+				if remoteEvents then
+					local useSkill = remoteEvents:FindFirstChild("UseSkill")
+					if useSkill then
+						-- Convert Q/E/R/F to slot numbers 1/2/3/4
+						local skillSlot = 1
+						if skillData.Key == "Q" then skillSlot = 1
+						elseif skillData.Key == "E" then skillSlot = 2
+						elseif skillData.Key == "R" then skillSlot = 3
+						elseif skillData.Key == "F" then skillSlot = 4
+						end
+
+						useSkill:FireServer(skillSlot)
+						print("📱 Mobile skill used:", skillData.Key, "-> Slot", skillSlot)
+
+						-- Start cooldown
+						MobileControls.StartCooldown(buttonData)
+					end
+				end
+			else
+				print("⏳ Skill on cooldown!")
+			end
+		end)
 
 		skillButtons[skillData.Key] = buttonData
 	end

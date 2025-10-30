@@ -49,6 +49,9 @@ function BossService.SpawnBoss(bossID, position)
 		BossService.AnnounceWorldBoss(bossData.Name)
 	end
 
+	-- Show Boss UI to all players
+	BossService.ShowBossUIToAll(bossModel)
+
 	print("✅ Boss spawned:", bossData.Name)
 	return bossModel
 end
@@ -205,6 +208,9 @@ function BossService.UpdateHealthBar(bossModel, currentHP)
 			healthText.Text = math.floor(currentHP) .. " / " .. maxHP
 		end
 	end
+
+	-- Update Boss UI for all players
+	BossService.UpdateBossHPForAll(currentHP, maxHP)
 end
 
 -- ========================================
@@ -239,6 +245,9 @@ function BossService.CheckPhaseTransition(bossModel, currentHP)
 				humanoid.WalkSpeed = bossData.Stats.Speed * phase.SpeedMultiplier
 			end
 
+			-- Update Boss UI phase
+			BossService.UpdateBossPhaseForAll(i)
+
 			print("Boss entered phase", i, ":", phase.Name)
 			break
 		end
@@ -254,8 +263,17 @@ function BossService.FindNearestPlayer(bossModel)
 	local nearestPlayer = nil
 	local nearestDistance = math.huge
 
+	-- Get SpawnProtectionService if available
+	local SpawnProtectionService = _G.Services and _G.Services.SpawnProtectionService
+
 	for _, player in ipairs(game.Players:GetPlayers()) do
 		if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+			-- Check if player has spawn protection
+			if SpawnProtectionService and SpawnProtectionService.IsProtected(player) then
+				-- Skip protected players
+				continue
+			end
+
 			local playerPos = player.Character.HumanoidRootPart.Position
 			local distance = (playerPos - bossPos).Magnitude
 
@@ -279,6 +297,9 @@ function BossService.UseAbilities(bossModel, target, distance)
 
 	local bossData = bossInfo.Data
 	if not bossData.Abilities then return end
+
+	-- Check if target and distance are valid
+	if not target or not distance then return end
 
 	local currentTime = os.time()
 
@@ -363,6 +384,9 @@ function BossService.OnBossDeath(bossModel)
 	-- Announce death
 	BossService.AnnounceBossDeath(bossData.Name)
 
+	-- Hide Boss UI for all players
+	BossService.HideBossUIForAll()
+
 	-- Start respawn timer
 	BossService.StartRespawnTimer(bossData.BossID, bossData.RespawnTime, bossModel.PrimaryPart.Position)
 
@@ -425,6 +449,58 @@ function BossService.NotifyPlayer(player, message)
 end
 
 -- ========================================
+-- BOSS UI REMOTE EVENTS
+-- ========================================
+
+function BossService.ShowBossUIToAll(bossModel)
+	local remoteEvents = ReplicatedStorage:FindFirstChild("RemoteEvents")
+	if not remoteEvents then return end
+
+	local showBossUI = remoteEvents:FindFirstChild("ShowBossUI")
+	if not showBossUI then return end
+
+	local bossInfo = BossService.ActiveBosses[bossModel]
+	if not bossInfo then return end
+
+	local bossData = bossInfo.Data
+	local currentHP = bossModel:GetAttribute("CurrentHP")
+	local maxHP = bossModel:GetAttribute("MaxHP")
+	local phase = bossModel:GetAttribute("CurrentPhase") or 0
+
+	showBossUI:FireAllClients(bossData.Name, currentHP, maxHP, phase)
+end
+
+function BossService.UpdateBossHPForAll(currentHP, maxHP)
+	local remoteEvents = ReplicatedStorage:FindFirstChild("RemoteEvents")
+	if not remoteEvents then return end
+
+	local updateBossHP = remoteEvents:FindFirstChild("UpdateBossHP")
+	if not updateBossHP then return end
+
+	updateBossHP:FireAllClients(currentHP, maxHP)
+end
+
+function BossService.UpdateBossPhaseForAll(phase)
+	local remoteEvents = ReplicatedStorage:FindFirstChild("RemoteEvents")
+	if not remoteEvents then return end
+
+	local updatePhase = remoteEvents:FindFirstChild("UpdateBossPhase")
+	if not updatePhase then return end
+
+	updatePhase:FireAllClients(phase)
+end
+
+function BossService.HideBossUIForAll()
+	local remoteEvents = ReplicatedStorage:FindFirstChild("RemoteEvents")
+	if not remoteEvents then return end
+
+	local hideBossUI = remoteEvents:FindFirstChild("HideBossUI")
+	if not hideBossUI then return end
+
+	hideBossUI:FireAllClients()
+end
+
+-- ========================================
 -- SPAWN ALL BOSSES
 -- ========================================
 
@@ -461,11 +537,15 @@ function BossService.Initialize()
 		notif.Parent = remoteEvents
 	end
 
-	-- Spawn bosses after delay
-	task.wait(5)
-	BossService.SpawnAllBosses()
+	-- NOTE: Bosses will NOT auto-spawn
+	-- Use admin command /spawnBoss to spawn bosses manually
+	-- Or uncomment the lines below to enable auto-spawn:
+
+	-- task.wait(5)
+	-- BossService.SpawnAllBosses()
 
 	print("✅ BossService ready!")
+	print("💡 Use /spawnBoss command to spawn bosses")
 end
 
 -- Auto-initialize

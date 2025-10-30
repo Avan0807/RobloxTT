@@ -5,7 +5,6 @@
 
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
-      "$path": "src/ReplicatedStorage",
 
       "Modules": {
         "$path": "src/ReplicatedStorage/Modules"
@@ -101,12 +100,31 @@
         },
         "PromptGamePass": {
           "$className": "RemoteEvent"
+        },
+        "ShowBossUI": {
+          "$className": "RemoteEvent"
+        },
+        "UpdateBossHP": {
+          "$className": "RemoteEvent"
+        },
+        "UpdateBossPhase": {
+          "$className": "RemoteEvent"
+        },
+        "HideBossUI": {
+          "$className": "RemoteEvent"
+        },
+        "SpawnProtectionNotification": {
+          "$className": "RemoteEvent"
         }
       }
     },
 
     "ServerScriptService": {
       "$className": "ServerScriptService",
+
+      "Scripts": {
+        "$path": "src/ServerScriptService/Scripts"
+      },
 
       "Services": {
         "$path": "src/ServerScriptService/Services"
@@ -117,11 +135,7 @@
       "$className": "StarterPlayer",
 
       "StarterPlayerScripts": {
-        "$className": "StarterPlayerScripts",
-
-        "UI": {
-          "$path": "src/StarterPlayer/StarterPlayerScripts/UI"
-        }
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
       }
     },
 

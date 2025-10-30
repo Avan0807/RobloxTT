@@ -196,9 +196,18 @@ local function UpdateEnemyAI(enemy)
 	local closestPlayer = nil
 	local closestDistance = AI_SETTINGS.DetectionRange
 
+	-- Get SpawnProtectionService if available
+	local SpawnProtectionService = _G.Services and _G.Services.SpawnProtectionService
+
 	for _, player in ipairs(Players:GetPlayers()) do
 		local character = player.Character
 		if character and character:FindFirstChild("HumanoidRootPart") then
+			-- Check if player has spawn protection
+			if SpawnProtectionService and SpawnProtectionService.IsProtected(player) then
+				-- Skip protected players
+				continue
+			end
+
 			local playerHrp = character.HumanoidRootPart
 			local distance = (playerHrp.Position - position).Magnitude
 

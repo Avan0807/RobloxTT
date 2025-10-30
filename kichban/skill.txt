@@ -1,0 +1,118 @@
+⚡ HỆ TIÊN THIÊN – Khống chế – Burst phép – Mobility cao
+Kỹ năng thường (10 skill)
+
+Ngũ Hành Trảm – Phóng 5 tia nguyên tố hình quạt; mỗi tia trúng tăng 3% sát thương phép (stack 5 lần).
+
+Lôi Ảnh Dịch Thân – Dịch chuyển 8m về hướng chuột, để lại bóng sét đánh ngược lại (iframe 0.4s).
+
+Băng Tỏa Trảm – Đóng băng địch 1.2s, nếu địch bị hit thêm lần nữa sẽ vỡ băng gây 150% dmg.
+
+Hỏa Liệt Quyền – Tung quyền lửa cận chiến, hit trúng tạo shock nổ 2m AOE.
+
+Phong Thần Kết Giới – Tạo vòng xoáy gió đẩy lùi và giảm tốc 30% trong 3s.
+
+Thiên Quang Phản Kích – Parry phép: nếu đỡ được skill địch → phản lại 200% sát thương.
+
+Thủy Lưu Tốc Bộ – Buff tốc độ di chuyển 25%, jump cao hơn trong 5s.
+
+Vân Kiếm Hồi Tông – Tung kiếm bay rồi recall về gây damage trên đường bay về (double-hit mechanic).
+
+Tử Lôi Giáng – Gọi sét định vị trúng mục tiêu, delay 1s, cho phép địch dodge.
+
+Ngự Linh Hồi Sinh – Hồi 20% HP tức thời khi trúng đòn chí mạng (cooldown 90s).
+
+Công pháp thượng phẩm (5 skill)
+
+Tam Lôi Kích – Chuỗi combo 3 cú sét tốc độ cao, mỗi hit gây stagger mạnh, có thể cancel animation.
+
+Thái Hư Phong Giới – Tạo domain 10m giảm 50% cooldown cho bản thân, tăng cast speed 30% (10s).
+
+Hư Không Dịch Chuyển – Blink xuyên qua địch, gây AOE khi xuất hiện (iframe 0.5s).
+
+Ngũ Hành Hợp Nhất – Biến 5 nguyên tố thành cầu năng lượng, nổ theo hướng charge (burst 400% dmg).
+
+Thiên Đạo Phán Quyết – Ultimate: Triệu hồi cột ánh sáng 100% map nhỏ, địch trong vùng bị đánh 3 lần liên tiếp; damage scale theo MP.
+
+📈 Chất chơi: cơ động, kiểm soát nhịp combat, tạo cảm giác “mage đấu tay đôi có mobility”.
+
+💪 HỆ CỔ THẦN – Cận chiến – Timing – Phản đòn – Áp sát áp lực cao
+Kỹ năng thường (10 skill)
+
+Cổ Quyền Tam Liên – 3 cú combo punch (light > heavy > ground slam). Hit thứ ba knockback nhẹ.
+
+Phá Thạch Cước – Đá mạnh ra trước, nếu trúng tường/địa hình → gây thêm 200% damage.
+
+Kim Cang Chưởng – Charge 0.5s, tạo sóng chấn xuyên qua địch, knockdown.
+
+Trảm Phong Bộ – Dash 10m (iframe 0.3s), đòn tiếp theo gây 1.5x dmg.
+
+Thiết Cốt Phòng Thể – Giảm 50% sát thương trong 2s, cho phép counter.
+
+Long Hống Quyền – Hét ra khí xung chặn đòn địch, gây stagger nhẹ.
+
+Thiên Trụ Địa Trảm – Nhảy lên đập đất, tạo shockwave 5m.
+
+Thiết Cước Phản Kích – Khi dodge thành công → auto phản đòn 1 hit 300% dmg.
+
+Thần Lực Dẫn Nổ – Khi trúng 5 đòn, kích hoạt bùng nổ năng lượng (nổ vòng 3m).
+
+Hồi Tức Cổ Huyết – Khi còn <30% HP, mỗi hit hồi 2% HP trong 8s.
+
+Công pháp thượng phẩm (5 skill)
+
+Cổ Ma Thể Hóa – Biến thân 15s, đòn melee có range gấp đôi, +100% phản damage.
+
+Chấn Thiên Quyền – Ultimate charge punch, tạo shockwave xuyên 40m, knockup mọi địch.
+
+Bát Hoang Bất Diệt – Trong 5s, miễn khống chế và không bị stagger, nhưng giảm 30% dmg gây ra.
+
+Cổ Ảnh Đoạt Hồn – Lướt qua kẻ địch tốc độ cao (iframe 0.4s), đánh 2 hit chéo.
+
+Thần Cốt Phục Sinh – Nếu chết, giữ lại 1 HP, trở lại chiến đấu 3s với invincible frame 1.2s.
+
+📈 Chất chơi: đánh nhịp cận chiến, canh dodge – counter – combo. Dễ vào nhịp PvP 1v1.
+
+🩸 HỆ MA ĐẠO – Hit-n-run, drain, combo linh hồn, zone control
+Kỹ năng thường (10 skill)
+
+Linh Hồn Trảm – Slash linh hồn, gây 200% Soul Dmg, xuyên 25% giáp.
+
+Oan Hồn Đuổi Bóng – Triệu hồi 3 hồn bóng đuổi địch 4s (tracking nhẹ).
+
+Tế Hồn – Sacrifice 10% HP để hồi 20% năng lượng + tăng 15% speed 5s.
+
+Hấp Hồn Trảm – Đòn cận chiến hút HP tương ứng 5% damage gây ra.
+
+Ma Ảnh Dịch Thân – Lướt 6m, để lại bóng tự nổ gây 150% dmg (iframe 0.3s).
+
+Hồn Phiên Phóng Xuất – Thả 20 linh hồn ra tấn công diện rộng, sau 5s tự quay về hồi HP.
+
+Tàn Hồn Kết Giới – Vùng 8m hút HP/giây từ địch (địch có thể dodge ra ngoài).
+
+Ma Tâm Giải Phóng – Buff bản thân: +25% lifesteal trong 8s.
+
+Âm Hồn Cắn Xé – Combo 2 hit: lần 1 gây damage thường, lần 2 hút linh hồn địch (stun 0.5s).
+
+Tử Ảnh Hoán Thân – Đổi chỗ với bóng ma cách xa tối đa 12m (iframe 0.4s).
+
+Công pháp thượng phẩm (5 skill)
+
+Hồn Phong Ấn – Đánh dấu linh hồn, nếu địch chết trong 6s → bị giam linh hồn, không thể hồi sinh.
+
+Diệt Hồn Liên Kích – Combo 5 hit cực nhanh, mỗi hit +10% lifesteal, kết thúc gây 400% dmg.
+
+Vô Gian Ma Vực – Mở domain 10m, địch bên trong bị giảm 50% regen và tầm nhìn.
+
+Hủy Diệt Linh Thể – Ultimate: Hấp toàn bộ linh hồn quanh 15m, gây sát thương theo tổng linh hồn đã hút.
+
+Vạn Ma Hóa Thân – Biến hình Ma Thần 10s, mỗi cú đánh phóng ra ảo ảnh gây 60% dmg; có iframe 0.6s khi biến hình.
+
+📈 Chất chơi: PvP tầm trung, kiểm soát vùng, chơi theo nhịp hút–né–phản–burst.
+
+⚖️ Cân bằng cho gameplay dodge-based:
+Thông số chính	Tiên Thiên	Cổ Thần	Ma Đạo
+Tốc độ di chuyển	★★★★☆	★★☆☆☆	★★★☆☆
+Damage burst (2s window)	★★★★☆	★★★★★	★★★★☆
+Khả năng né / i-frame	0.5–0.8s skill mobility	0.3–0.5s dash / parry	0.3–0.6s blink / swap
+Sustain (hồi phục)	trung bình, buff team	cao, tự regen	rất cao, lifesteal
+PvP 1v1 advantage	thắng Ma Đạo (range kite)	thắng Tiên Thiên (áp sát)	thắng Cổ Thần (drain sustain)

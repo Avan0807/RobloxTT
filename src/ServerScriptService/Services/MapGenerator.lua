@@ -4,8 +4,10 @@
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerScriptService = game:GetService("ServerScriptService")
 
--- Load EnemyService
-local EnemyService = require(ServerScriptService:WaitForChild("EnemyService"))
+-- Get EnemyService from global services (loaded by init.server.lua)
+local function GetEnemyService()
+	return _G.Services and _G.Services.EnemyService
+end
 
 -- ========================================
 -- MAP GENERATOR
@@ -411,8 +413,13 @@ function MapGenerator.Initialize()
 
 	-- Auto-spawn enemies
 	wait(2)
-	EnemyService.AutoSpawnForMap("RungLinhThu", map1)
-	EnemyService.AutoSpawnForMap("HuyenThienSon", map2)
+	local EnemyService = GetEnemyService()
+	if EnemyService and EnemyService.AutoSpawnForMap then
+		EnemyService.AutoSpawnForMap("RungLinhThu", map1)
+		EnemyService.AutoSpawnForMap("HuyenThienSon", map2)
+	else
+		warn("⚠️ EnemyService not available for auto-spawn")
+	end
 
 	print("✅ MapGenerator initialized with 2 maps!")
 end
